@@ -1134,3 +1134,111 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.07.25-03.49.10:389][178]AssetCheck: New page: Asset Save: multiple assets
 [2021.07.25-03.49.10:389][178]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Platformer/Maps/Level_00_BuiltData.Level_00_BuiltData
 [2021.07.25-03.49.10:389][178]LogContentValidation: Display: Validating World /Game/Platformer/Maps/Level_00.Level_00
+[2021.07.25-03.50.05:003][694]LogTemp: Repeating last play command: Standalone Game
+[2021.07.25-03.50.05:046][694]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2021.07.25-04.05.52:405][361]LogUObjectHash: Compacting FUObjectHashTables data took   4.60ms
+[2021.07.25-04.05.52:511][361]LogSavePackage: Moving '../../../../../GitHub/comp313ass1v2/Platformer/Saved/Level_00_Auto827540A0D4155DC34A47ACEBD512D0C5A.tmp' to '../../../../../GitHub/comp313ass1v2/Platformer/Saved/Autosaves/Game/Platformer/Maps/Level_00_Auto8.umap'
+[2021.07.25-04.05.52:530][361]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Platformer/Maps/Level_00' took 0.197
+[2021.07.25-04.05.52:530][361]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.197
+[2021.07.25-04.05.52:531][361]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Platformer/Blueprints/BP_Enemy] ([2] browsable assets)...
+[2021.07.25-04.05.52:531][361]OBJ SavePackage: Finished generating thumbnails for package [/Game/Platformer/Blueprints/BP_Enemy]
+[2021.07.25-04.05.52:547][361]LogSavePackage: Moving '../../../../../GitHub/comp313ass1v2/Platformer/Saved/BP_Enemy_Auto82E1D73C44ECA9C7C2E305CA6EBC7C823.tmp' to '../../../../../GitHub/comp313ass1v2/Platformer/Saved/Autosaves/Game/Platformer/Blueprints/BP_Enemy_Auto8.uasset'
+[2021.07.25-04.05.52:548][361]LogFileHelpers: Auto-saving content packages took 0.017
+[2021.07.25-04.15.52:997][ 20]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2021.07.25-04.15.52:998][ 20]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Platformer/Maps/Level_00' took 0.061
+[2021.07.25-04.15.52:999][ 20]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Platformer/Blueprints/BP_Enemy] ([2] browsable assets)...
+[2021.07.25-04.15.52:999][ 20]OBJ SavePackage: Finished generating thumbnails for package [/Game/Platformer/Blueprints/BP_Enemy]
+[2021.07.25-04.15.53:014][ 20]LogSavePackage: Moving '../../../../../GitHub/comp313ass1v2/Platformer/Saved/BP_Enemy_Auto92C02C1E845F4B9DE716E4EB82EE9752C.tmp' to '../../../../../GitHub/comp313ass1v2/Platformer/Saved/Autosaves/Game/Platformer/Blueprints/BP_Enemy_Auto9.uasset'
+[2021.07.25-04.15.53:015][ 20]LogFileHelpers: Auto-saving content packages took 0.016
+[2021.07.25-04.25.53:447][818]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2021.07.25-04.25.53:448][818]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Platformer/Maps/Level_00' took 0.060
+[2021.07.25-04.25.53:448][818]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Platformer/Blueprints/BP_Enemy] ([2] browsable assets)...
+[2021.07.25-04.25.53:448][818]OBJ SavePackage: Finished generating thumbnails for package [/Game/Platformer/Blueprints/BP_Enemy]
+[2021.07.25-04.25.53:467][818]LogSavePackage: Moving '../../../../../GitHub/comp313ass1v2/Platformer/Saved/BP_Enemy_Auto0ACD9600A4D9FF17DF0728AA0976C7C13.tmp' to '../../../../../GitHub/comp313ass1v2/Platformer/Saved/Autosaves/Game/Platformer/Blueprints/BP_Enemy_Auto0.uasset'
+[2021.07.25-04.25.53:467][818]LogFileHelpers: Auto-saving content packages took 0.019
+[2021.07.25-04.41.26:524][434]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (stoneCorner_left_Sprite)
+[2021.07.25-04.41.30:005][847]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (stoneCorner_right_Sprite)
+[2021.07.25-04.42.13:355][203]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.07.25-04.42.13:358][203]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Platformer/Maps/Level_00' took 0.043
+[2021.07.25-04.42.13:358][203]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Platformer/Blueprints/BP_Enemy] ([2] browsable assets)...
+[2021.07.25-04.42.13:358][203]OBJ SavePackage: Finished generating thumbnails for package [/Game/Platformer/Blueprints/BP_Enemy]
+[2021.07.25-04.42.13:378][203]LogSavePackage: Moving '../../../../../GitHub/comp313ass1v2/Platformer/Saved/BP_Enemy_Auto1EDD374914ADBA55F886396AB43A875D2.tmp' to '../../../../../GitHub/comp313ass1v2/Platformer/Saved/Autosaves/Game/Platformer/Blueprints/BP_Enemy_Auto1.uasset'
+[2021.07.25-04.42.13:378][203]LogFileHelpers: Auto-saving content packages took 0.020
+[2021.07.25-04.50.25:578][896]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.07.25-04.50.25:579][896]LogWindowsTextInputMethodSystem: Display: IME system activated using TSF (Microsoft IME).
+[2021.07.25-04.52.13:430][753]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2021.07.25-04.52.13:433][753]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Platformer/Maps/Level_00' took 0.045
+[2021.07.25-04.52.13:433][753]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Platformer/Blueprints/BP_Enemy] ([2] browsable assets)...
+[2021.07.25-04.52.13:433][753]OBJ SavePackage: Finished generating thumbnails for package [/Game/Platformer/Blueprints/BP_Enemy]
+[2021.07.25-04.52.15:918][753]LogSavePackage: Moving '../../../../../GitHub/comp313ass1v2/Platformer/Saved/BP_Enemy_Auto270529F6C474DAB1FB8C7E1BD85FDD33F.tmp' to '../../../../../GitHub/comp313ass1v2/Platformer/Saved/Autosaves/Game/Platformer/Blueprints/BP_Enemy_Auto2.uasset'
+[2021.07.25-04.52.15:920][753]LogFileHelpers: Auto-saving content packages took 2.488
+[2021.07.25-05.10.52:564][174]BlueprintLog: New page: Compile BP_Enemy
+[2021.07.25-05.10.52:635][174]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2021.07.25-05.11.23:488][ 63]LogUObjectHash: Compacting FUObjectHashTables data took   3.70ms
+[2021.07.25-05.11.23:534][ 63]LogSavePackage: Moving '../../../../../GitHub/comp313ass1v2/Platformer/Saved/Level_00_Auto33B13A2E342DAD755D4B950845D6E796B.tmp' to '../../../../../GitHub/comp313ass1v2/Platformer/Saved/Autosaves/Game/Platformer/Maps/Level_00_Auto3.umap'
+[2021.07.25-05.11.23:535][ 63]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Platformer/Maps/Level_00' took 0.104
+[2021.07.25-05.11.23:535][ 63]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.104
+[2021.07.25-05.11.23:536][ 63]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Platformer/Blueprints/BP_Enemy] ([2] browsable assets)...
+[2021.07.25-05.11.23:536][ 63]OBJ SavePackage: Finished generating thumbnails for package [/Game/Platformer/Blueprints/BP_Enemy]
+[2021.07.25-05.11.23:689][ 63]LogSavePackage: Moving '../../../../../GitHub/comp313ass1v2/Platformer/Saved/BP_Enemy_Auto399B898F3487A84DA3C778BAE8DF3D373.tmp' to '../../../../../GitHub/comp313ass1v2/Platformer/Saved/Autosaves/Game/Platformer/Blueprints/BP_Enemy_Auto3.uasset'
+[2021.07.25-05.11.23:691][ 63]LogFileHelpers: Auto-saving content packages took 0.155
+[2021.07.25-06.12.06:305][493]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2021.07.25-06.12.06:307][493]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Platformer/Maps/Level_00' took 0.055
+[2021.07.25-06.12.06:308][493]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Platformer/Blueprints/BP_Enemy] ([2] browsable assets)...
+[2021.07.25-06.12.06:308][493]OBJ SavePackage: Finished generating thumbnails for package [/Game/Platformer/Blueprints/BP_Enemy]
+[2021.07.25-06.12.06:332][493]LogSavePackage: Moving '../../../../../GitHub/comp313ass1v2/Platformer/Saved/BP_Enemy_Auto4D7A366C64890C9C2E7F97E88CC881536.tmp' to '../../../../../GitHub/comp313ass1v2/Platformer/Saved/Autosaves/Game/Platformer/Blueprints/BP_Enemy_Auto4.uasset'
+[2021.07.25-06.12.06:332][493]LogFileHelpers: Auto-saving content packages took 0.024
+[2021.07.25-06.12.46:174][806]BlueprintLog: New page: Compile BP_Enemy
+[2021.07.25-06.12.46:238][806]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2021.07.25-06.12.46:929][872]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Platformer/Blueprints/BP_Enemy" FILE="../../../../../GitHub/comp313ass1v2/Platformer/Content/Platformer/Blueprints/BP_Enemy.uasset" SILENT=true
+[2021.07.25-06.12.46:963][872]LogSavePackage: Moving '../../../../../GitHub/comp313ass1v2/Platformer/Saved/BP_EnemyB0E81A004C3089BA0EE1A4A2648A8B56.tmp' to '../../../../../GitHub/comp313ass1v2/Platformer/Content/Platformer/Blueprints/BP_Enemy.uasset'
+[2021.07.25-06.12.46:977][872]AssetCheck: New page: Asset Save: BP_Enemy
+[2021.07.25-06.12.46:977][872]LogContentValidation: Display: Validating Blueprint /Game/Platformer/Blueprints/BP_Enemy.BP_Enemy
+[2021.07.25-06.13.11:911][321]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Platformer/Maps/Level_00" FILE="../../../../../GitHub/comp313ass1v2/Platformer/Content/Platformer/Maps/Level_00.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.07.25-06.13.11:949][321]LogUObjectHash: Compacting FUObjectHashTables data took   3.87ms
+[2021.07.25-06.13.11:997][321]LogSavePackage: Moving '../../../../../GitHub/comp313ass1v2/Platformer/Saved/Level_00752D9EB24A67A8308974818B7A757B16.tmp' to '../../../../../GitHub/comp313ass1v2/Platformer/Content/Platformer/Maps/Level_00.umap'
+[2021.07.25-06.13.12:009][321]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Platformer/Maps/Level_00_BuiltData" FILE="../../../../../GitHub/comp313ass1v2/Platformer/Content/Platformer/Maps/Level_00_BuiltData.uasset" SILENT=true
+[2021.07.25-06.13.12:024][321]LogSavePackage: Moving '../../../../../GitHub/comp313ass1v2/Platformer/Saved/Level_00_BuiltData7D5FD9DC4AEB2E358C1C5EB65A827EFB.tmp' to '../../../../../GitHub/comp313ass1v2/Platformer/Content/Platformer/Maps/Level_00_BuiltData.uasset'
+[2021.07.25-06.13.12:038][321]AssetCheck: New page: Asset Save: multiple assets
+[2021.07.25-06.13.12:038][321]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Platformer/Maps/Level_00_BuiltData.Level_00_BuiltData
+[2021.07.25-06.13.12:038][321]LogContentValidation: Display: Validating World /Game/Platformer/Maps/Level_00.Level_00
+[2021.07.25-06.13.14:359][574]LogTemp: Repeating last play command: Standalone Game
+[2021.07.25-06.13.14:399][574]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2021.07.25-06.14.37:905][638]LogTexture: Display: Building textures: bee_move (AutoDXT, 128X128)
+[2021.07.25-06.14.37:905][638]LogTexture: Display: Building textures: bee (AutoDXT, 128X128)
+[2021.07.25-06.14.51:541][213]BlueprintLog: New page: Compile BP_Enemy
+[2021.07.25-06.14.51:609][213]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2021.07.25-06.14.53:476][416]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Platformer/Maps/Level_00" FILE="../../../../../GitHub/comp313ass1v2/Platformer/Content/Platformer/Maps/Level_00.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.07.25-06.14.53:512][416]LogUObjectHash: Compacting FUObjectHashTables data took   3.18ms
+[2021.07.25-06.14.53:561][416]LogSavePackage: Moving '../../../../../GitHub/comp313ass1v2/Platformer/Saved/Level_00F60BCA7D4CB73BEA166758BCE9607F4F.tmp' to '../../../../../GitHub/comp313ass1v2/Platformer/Content/Platformer/Maps/Level_00.umap'
+[2021.07.25-06.14.53:573][416]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Platformer/Maps/Level_00_BuiltData" FILE="../../../../../GitHub/comp313ass1v2/Platformer/Content/Platformer/Maps/Level_00_BuiltData.uasset" SILENT=true
+[2021.07.25-06.14.53:636][416]LogSavePackage: Moving '../../../../../GitHub/comp313ass1v2/Platformer/Saved/Level_00_BuiltData29312D174682322673DCE1802DEEE5E0.tmp' to '../../../../../GitHub/comp313ass1v2/Platformer/Content/Platformer/Maps/Level_00_BuiltData.uasset'
+[2021.07.25-06.14.53:650][416]AssetCheck: New page: Asset Save: multiple assets
+[2021.07.25-06.14.53:650][416]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Platformer/Maps/Level_00_BuiltData.Level_00_BuiltData
+[2021.07.25-06.14.53:650][416]LogContentValidation: Display: Validating World /Game/Platformer/Maps/Level_00.Level_00
+[2021.07.25-06.14.54:833][544]LogTemp: Repeating last play command: Standalone Game
+[2021.07.25-06.14.54:873][544]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2021.07.25-06.14.56:587][544]LogSlate: Window 'Save Content' being destroyed
+[2021.07.25-06.14.56:611][544]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Platformer/Blueprints/BP_Enemy" FILE="../../../../../GitHub/comp313ass1v2/Platformer/Content/Platformer/Blueprints/BP_Enemy.uasset" SILENT=true
+[2021.07.25-06.14.56:692][544]LogSavePackage: Moving '../../../../../GitHub/comp313ass1v2/Platformer/Saved/BP_Enemy2F99ED0F48901622D653E2AABA2CC793.tmp' to '../../../../../GitHub/comp313ass1v2/Platformer/Content/Platformer/Blueprints/BP_Enemy.uasset'
+[2021.07.25-06.14.56:720][545]AssetCheck: New page: Asset Save: BP_Enemy
+[2021.07.25-06.14.56:720][545]LogContentValidation: Display: Validating Blueprint /Game/Platformer/Blueprints/BP_Enemy.BP_Enemy
+[2021.07.25-06.19.23:884][483]BlueprintLog: New page: Compile BP_Enemy
+[2021.07.25-06.19.23:954][483]LogUObjectHash: Compacting FUObjectHashTables data took   3.41ms
+[2021.07.25-06.19.25:087][602]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Platformer/Blueprints/BP_Enemy" FILE="../../../../../GitHub/comp313ass1v2/Platformer/Content/Platformer/Blueprints/BP_Enemy.uasset" SILENT=true
+[2021.07.25-06.19.26:399][602]LogSavePackage: Moving '../../../../../GitHub/comp313ass1v2/Platformer/Saved/BP_Enemy9CD37F5F4AEADFD2FFBFE2BA85DBFBA8.tmp' to '../../../../../GitHub/comp313ass1v2/Platformer/Content/Platformer/Blueprints/BP_Enemy.uasset'
+[2021.07.25-06.19.26:454][602]AssetCheck: New page: Asset Save: BP_Enemy
+[2021.07.25-06.19.26:454][602]LogContentValidation: Display: Validating Blueprint /Game/Platformer/Blueprints/BP_Enemy.BP_Enemy
+[2021.07.25-06.19.31:464][127]LogTemp: Repeating last play command: Standalone Game
+[2021.07.25-06.19.31:507][127]LogUObjectHash: Compacting FUObjectHashTables data took   3.62ms
+[2021.07.25-06.19.32:686][127]LogSlate: Window 'Save Content' being destroyed
+[2021.07.25-06.19.32:702][127]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Platformer/Maps/Level_00" FILE="../../../../../GitHub/comp313ass1v2/Platformer/Content/Platformer/Maps/Level_00.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.07.25-06.19.32:735][127]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2021.07.25-06.19.32:783][127]LogSavePackage: Moving '../../../../../GitHub/comp313ass1v2/Platformer/Saved/Level_00A96D3BB7414AC4630B491DA8AB12243D.tmp' to '../../../../../GitHub/comp313ass1v2/Platformer/Content/Platformer/Maps/Level_00.umap'
+[2021.07.25-06.19.32:793][127]LogFileHelpers: Saving map 'Level_00' took 0.091
+[2021.07.25-06.19.32:817][128]AssetCheck: New page: Asset Save: Level_00
+[2021.07.25-06.19.32:817][128]LogContentValidation: Display: Validating World /Game/Platformer/Maps/Level_00.Level_00
+[2021.07.25-06.20.09:052][  3]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Platformer/Blueprints/BP_PlayerA" FILE="../../../../../GitHub/comp313ass1v2/Platformer/Content/Platformer/Blueprints/BP_PlayerA.uasset" SILENT=true
+[2021.07.25-06.20.09:104][  3]LogSavePackage: Moving '../../../../../GitHub/comp313ass1v2/Platformer/Saved/BP_PlayerA8174BF444EB21AEA3ABBF98276327B02.tmp' to '../../../../../GitHub/comp313ass1v2/Platformer/Content/Platformer/Blueprints/BP_PlayerA.uasset'
+[2021.07.25-06.20.09:117][  3]AssetCheck: New page: Asset Save: BP_PlayerA
+[2021.07.25-06.20.09:117][  3]LogContentValidation: Display: Validating Blueprint /Game/Platformer/Blueprints/BP_PlayerA.BP_PlayerA
