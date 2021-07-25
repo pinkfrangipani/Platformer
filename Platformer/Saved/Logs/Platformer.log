@@ -1237,3 +1237,120 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.07.25-21.27.13:400][656]LogContentValidation: Display: Validating World /Game/Platformer/Maps/Level_00.Level_00
 [2021.07.25-21.27.14:743][800]LogTemp: Repeating last play command: Standalone Game
 [2021.07.25-21.27.14:783][800]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2021.07.25-21.29.20:772][ 36]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Platformer/Blueprints/Widget_HUD" FILE="../../../../../GitHub/comp313ass1v2/Platformer/Content/Platformer/Blueprints/Widget_HUD.uasset" SILENT=true
+[2021.07.25-21.29.20:782][ 36]LogSavePackage: Moving '../../../../../GitHub/comp313ass1v2/Platformer/Saved/Widget_HUDDFAAF0CF48F91C2D3A0CD5A666E07798.tmp' to '../../../../../GitHub/comp313ass1v2/Platformer/Content/Platformer/Blueprints/Widget_HUD.uasset'
+[2021.07.25-21.29.20:796][ 36]AssetCheck: New page: Asset Save: Widget_HUD
+[2021.07.25-21.29.20:796][ 36]LogContentValidation: Display: Validating WidgetBlueprint /Game/Platformer/Blueprints/Widget_HUD.Widget_HUD
+[2021.07.25-21.29.21:362][103]BlueprintLog: New page: Compile Widget_HUD
+[2021.07.25-21.29.21:438][103]LogUObjectHash: Compacting FUObjectHashTables data took   3.42ms
+[2021.07.25-21.29.48:474][206]LogEditorTransaction: Undo Drag and Drop Widget
+[2021.07.25-21.30.06:128][215]BlueprintLog: New page: Compile Main_Menu_Widget
+[2021.07.25-21.30.06:169][215]LogUObjectHash: Compacting FUObjectHashTables data took   3.67ms
+[2021.07.25-21.30.06:753][270]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Platformer/Screens/Main_Menu_Widget" FILE="../../../../../GitHub/comp313ass1v2/Platformer/Content/Platformer/Screens/Main_Menu_Widget.uasset" SILENT=true
+[2021.07.25-21.30.06:761][270]LogSavePackage: Moving '../../../../../GitHub/comp313ass1v2/Platformer/Saved/Main_Menu_WidgetEFC4C78249DDAF7E988DBCB8EB569CCF.tmp' to '../../../../../GitHub/comp313ass1v2/Platformer/Content/Platformer/Screens/Main_Menu_Widget.uasset'
+[2021.07.25-21.30.06:774][270]AssetCheck: New page: Asset Save: Main_Menu_Widget
+[2021.07.25-21.30.06:774][270]LogContentValidation: Display: Validating WidgetBlueprint /Game/Platformer/Screens/Main_Menu_Widget.Main_Menu_Widget
+[2021.07.25-21.31.02:716][717]BlueprintLog: New page: Compile BP_Enemy
+[2021.07.25-21.31.02:782][717]LogUObjectHash: Compacting FUObjectHashTables data took   3.36ms
+[2021.07.25-21.31.04:454][903]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Platformer/Blueprints/BP_Enemy" FILE="../../../../../GitHub/comp313ass1v2/Platformer/Content/Platformer/Blueprints/BP_Enemy.uasset" SILENT=true
+[2021.07.25-21.31.04:493][903]LogSavePackage: Moving '../../../../../GitHub/comp313ass1v2/Platformer/Saved/BP_Enemy73A416A04A5B69C4FAB35B9276C6F80D.tmp' to '../../../../../GitHub/comp313ass1v2/Platformer/Content/Platformer/Blueprints/BP_Enemy.uasset'
+[2021.07.25-21.31.04:507][903]AssetCheck: New page: Asset Save: BP_Enemy
+[2021.07.25-21.31.04:507][903]LogContentValidation: Display: Validating Blueprint /Game/Platformer/Blueprints/BP_Enemy.BP_Enemy
+[2021.07.25-21.31.54:198][631]BlueprintLog: New page: Compile BP_Shot
+[2021.07.25-21.31.54:269][631]LogUObjectHash: Compacting FUObjectHashTables data took   4.59ms
+[2021.07.25-21.31.59:200][196]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Platformer/Maps/Level_00" FILE="../../../../../GitHub/comp313ass1v2/Platformer/Content/Platformer/Maps/Level_00.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.07.25-21.31.59:237][196]LogUObjectHash: Compacting FUObjectHashTables data took   3.62ms
+[2021.07.25-21.31.59:285][196]LogSavePackage: Moving '../../../../../GitHub/comp313ass1v2/Platformer/Saved/Level_00ED87513F4957E9479303FE96D0F1AABA.tmp' to '../../../../../GitHub/comp313ass1v2/Platformer/Content/Platformer/Maps/Level_00.umap'
+[2021.07.25-21.31.59:297][196]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Platformer/Maps/Level_00_BuiltData" FILE="../../../../../GitHub/comp313ass1v2/Platformer/Content/Platformer/Maps/Level_00_BuiltData.uasset" SILENT=true
+[2021.07.25-21.31.59:312][196]LogSavePackage: Moving '../../../../../GitHub/comp313ass1v2/Platformer/Saved/Level_00_BuiltData0FDEE95D479A03D33B30D9B51CB841BB.tmp' to '../../../../../GitHub/comp313ass1v2/Platformer/Content/Platformer/Maps/Level_00_BuiltData.uasset'
+[2021.07.25-21.31.59:325][196]AssetCheck: New page: Asset Save: multiple assets
+[2021.07.25-21.31.59:325][196]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Platformer/Maps/Level_00_BuiltData.Level_00_BuiltData
+[2021.07.25-21.31.59:325][196]LogContentValidation: Display: Validating World /Game/Platformer/Maps/Level_00.Level_00
+[2021.07.25-21.32.03:816][724]LogTemp: Repeating last play command: Standalone Game
+[2021.07.25-21.32.03:857][724]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2021.07.25-21.32.05:808][724]LogSlate: Window 'Save Content' being destroyed
+[2021.07.25-21.32.05:834][724]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Platformer/Blueprints/BP_Shot" FILE="../../../../../GitHub/comp313ass1v2/Platformer/Content/Platformer/Blueprints/BP_Shot.uasset" SILENT=true
+[2021.07.25-21.32.05:842][724]LogSavePackage: Moving '../../../../../GitHub/comp313ass1v2/Platformer/Saved/BP_ShotC8CD28014BA63551301C6AB0DE32C3D8.tmp' to '../../../../../GitHub/comp313ass1v2/Platformer/Content/Platformer/Blueprints/BP_Shot.uasset'
+[2021.07.25-21.32.05:865][725]AssetCheck: New page: Asset Save: BP_Shot
+[2021.07.25-21.32.05:865][725]LogContentValidation: Display: Validating Blueprint /Game/Platformer/Blueprints/BP_Shot.BP_Shot
+[2021.07.25-21.33.16:461][490]BlueprintLog: New page: Compile BP_Shot
+[2021.07.25-21.33.16:519][490]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2021.07.25-21.33.17:015][544]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Platformer/Blueprints/BP_Shot" FILE="../../../../../GitHub/comp313ass1v2/Platformer/Content/Platformer/Blueprints/BP_Shot.uasset" SILENT=true
+[2021.07.25-21.33.17:023][544]LogSavePackage: Moving '../../../../../GitHub/comp313ass1v2/Platformer/Saved/BP_Shot251109774B669BE7E66DE9B93BAC3C0E.tmp' to '../../../../../GitHub/comp313ass1v2/Platformer/Content/Platformer/Blueprints/BP_Shot.uasset'
+[2021.07.25-21.33.17:036][544]AssetCheck: New page: Asset Save: BP_Shot
+[2021.07.25-21.33.17:036][544]LogContentValidation: Display: Validating Blueprint /Game/Platformer/Blueprints/BP_Shot.BP_Shot
+[2021.07.25-21.33.22:304][148]LogTemp: Repeating last play command: Standalone Game
+[2021.07.25-21.33.22:345][148]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2021.07.25-21.35.06:574][ 42]LogSlate: Window 'Pick Parent Class' being destroyed
+[2021.07.25-21.35.22:307][817]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2021.07.25-21.35.22:320][817]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2021.07.25-21.35.32:545][ 37]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> Game_Won_Widget
+[2021.07.25-21.35.32:629][ 37]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2021.07.25-21.35.34:114][206]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Platformer/Screens/Game_Won_Widget.Game_Won_Widget
+[2021.07.25-21.35.49:608][995]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Platformer/Screens/Game_Over_Widget.Game_Over_Widget
+[2021.07.25-21.44.46:748][818]LogTemp: Repeating last play command: Standalone Game
+[2021.07.25-21.44.46:807][818]LogUObjectHash: Compacting FUObjectHashTables data took   4.00ms
+[2021.07.25-21.44.55:474][818]LogSlate: Window 'Save Content' being destroyed
+[2021.07.25-21.44.55:497][818]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Platformer/Screens/Game_Won_Widget" FILE="../../../../../GitHub/comp313ass1v2/Platformer/Content/Platformer/Screens/Game_Won_Widget.uasset" SILENT=true
+[2021.07.25-21.44.55:500][818]LogSavePackage: Moving '../../../../../GitHub/comp313ass1v2/Platformer/Saved/Game_Won_Widget3231992545D0893EF0A77592FE7127FE.tmp' to '../../../../../GitHub/comp313ass1v2/Platformer/Content/Platformer/Screens/Game_Won_Widget.uasset'
+[2021.07.25-21.44.55:531][819]AssetCheck: New page: Asset Save: Game_Won_Widget
+[2021.07.25-21.44.55:531][819]LogContentValidation: Display: Validating WidgetBlueprint /Game/Platformer/Screens/Game_Won_Widget.Game_Won_Widget
+[2021.07.25-21.50.12:186][605]LogSlate: Window 'Color Picker' being destroyed
+[2021.07.25-21.51.32:453][822]LogSlate: Window 'Color Picker' being destroyed
+[2021.07.25-21.51.57:144][736]LogSlate: Window 'Color Picker' being destroyed
+[2021.07.25-21.52.11:843][468]LogSlate: Window 'Color Picker' being destroyed
+[2021.07.25-21.52.16:776][ 19]LogSlate: Window 'Color Picker' being destroyed
+[2021.07.25-21.52.26:518][160]LogSlate: Window 'Color Picker' being destroyed
+[2021.07.25-21.53.08:796][ 20]LogEditorTransaction: Undo Drag and Drop Widget
+[2021.07.25-21.53.14:064][535]LogEditorTransaction: Undo Drag and Drop Widget
+[2021.07.25-21.53.19:439][ 64]LogEditorTransaction: Undo Drag and Drop Widget
+[2021.07.25-21.53.21:437][205]LogEditorTransaction: Undo Drag and Drop Widget
+[2021.07.25-21.53.55:388][145]LogSlate: Window 'Color Picker' being destroyed
+[2021.07.25-21.54.27:534][364]LogSlate: Window 'Color Picker' being destroyed
+[2021.07.25-21.54.34:313][142]LogSlate: Window 'Color Picker' being destroyed
+[2021.07.25-21.54.41:034][905]LogSlate: Window 'Color Picker' being destroyed
+[2021.07.25-21.55.11:923][551]LogUObjectHash: Compacting FUObjectHashTables data took   3.50ms
+[2021.07.25-21.55.11:925][551]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Platformer/Maps/Level_00' took 0.057
+[2021.07.25-21.55.11:925][551]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Platformer/Screens/Game_Won_Widget] ([1] browsable assets)...
+[2021.07.25-21.55.11:925][551]OBJ SavePackage: Finished generating thumbnails for package [/Game/Platformer/Screens/Game_Won_Widget]
+[2021.07.25-21.55.11:929][551]LogSavePackage: Moving '../../../../../GitHub/comp313ass1v2/Platformer/Saved/Game_Won_Widget_Auto3D021401C467EE272CF0BC2AFA02D209F.tmp' to '../../../../../GitHub/comp313ass1v2/Platformer/Saved/Autosaves/Game/Platformer/Screens/Game_Won_Widget_Auto3.uasset'
+[2021.07.25-21.55.11:930][551]LogFileHelpers: Auto-saving content packages took 0.005
+[2021.07.25-22.04.56:922][828]LogEditorTransaction: Undo Edit Text
+[2021.07.25-22.05.46:874][328]LogSlate: Window 'Color Picker' being destroyed
+[2021.07.25-22.06.04:978][453]LogSlate: Window 'Color Picker' being destroyed
+[2021.07.25-22.06.15:301][645]LogSlate: Window 'Color Picker' being destroyed
+[2021.07.25-22.06.22:169][269]LogEditorTransaction: Undo Drag and Drop Widget
+[2021.07.25-22.07.01:073][248]LogEditorTransaction: Undo Drag and Drop Widget
+[2021.07.25-22.07.13:571][282]BlueprintLog: New page: Compile Game_Won_Widget
+[2021.07.25-22.07.13:628][282]LogUObjectHash: Compacting FUObjectHashTables data took   3.80ms
+[2021.07.25-22.07.14:215][339]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Platformer/Screens/Game_Won_Widget" FILE="../../../../../GitHub/comp313ass1v2/Platformer/Content/Platformer/Screens/Game_Won_Widget.uasset" SILENT=true
+[2021.07.25-22.07.14:221][339]LogSavePackage: Moving '../../../../../GitHub/comp313ass1v2/Platformer/Saved/Game_Won_WidgetB98F976241C3772FFD3A37936B7D84A4.tmp' to '../../../../../GitHub/comp313ass1v2/Platformer/Content/Platformer/Screens/Game_Won_Widget.uasset'
+[2021.07.25-22.07.14:233][339]AssetCheck: New page: Asset Save: Game_Won_Widget
+[2021.07.25-22.07.14:233][339]LogContentValidation: Display: Validating WidgetBlueprint /Game/Platformer/Screens/Game_Won_Widget.Game_Won_Widget
+[2021.07.25-22.11.27:229][457]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.07.25-22.11.59:392][ 56]BlueprintLog: New page: Compile BP_Enemy
+[2021.07.25-22.11.59:479][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   3.99ms
+[2021.07.25-22.13.28:869][225]BlueprintLog: New page: Compile Game_Won_Widget
+[2021.07.25-22.13.28:934][225]LogUObjectHash: Compacting FUObjectHashTables data took   3.50ms
+[2021.07.25-22.13.29:423][276]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Platformer/Screens/Game_Won_Widget" FILE="../../../../../GitHub/comp313ass1v2/Platformer/Content/Platformer/Screens/Game_Won_Widget.uasset" SILENT=true
+[2021.07.25-22.13.29:432][276]LogSavePackage: Moving '../../../../../GitHub/comp313ass1v2/Platformer/Saved/Game_Won_Widget0E68162B41FFA118AE385E918F89061B.tmp' to '../../../../../GitHub/comp313ass1v2/Platformer/Content/Platformer/Screens/Game_Won_Widget.uasset'
+[2021.07.25-22.13.29:446][276]AssetCheck: New page: Asset Save: Game_Won_Widget
+[2021.07.25-22.13.29:446][276]LogContentValidation: Display: Validating WidgetBlueprint /Game/Platformer/Screens/Game_Won_Widget.Game_Won_Widget
+[2021.07.25-22.13.32:848][650]LogTemp: Repeating last play command: Standalone Game
+[2021.07.25-22.13.32:896][650]LogUObjectHash: Compacting FUObjectHashTables data took   3.72ms
+[2021.07.25-22.13.34:020][650]LogSlate: Window 'Save Content' being destroyed
+[2021.07.25-22.13.34:039][650]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Platformer/Blueprints/BP_Enemy" FILE="../../../../../GitHub/comp313ass1v2/Platformer/Content/Platformer/Blueprints/BP_Enemy.uasset" SILENT=true
+[2021.07.25-22.13.34:084][650]LogSavePackage: Moving '../../../../../GitHub/comp313ass1v2/Platformer/Saved/BP_Enemy1E22AF4E452A623E2AFE1187A440E5B5.tmp' to '../../../../../GitHub/comp313ass1v2/Platformer/Content/Platformer/Blueprints/BP_Enemy.uasset'
+[2021.07.25-22.13.34:085][650]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Platformer/Blueprints/BP_PlayerA" FILE="../../../../../GitHub/comp313ass1v2/Platformer/Content/Platformer/Blueprints/BP_PlayerA.uasset" SILENT=true
+[2021.07.25-22.13.34:138][650]LogSavePackage: Moving '../../../../../GitHub/comp313ass1v2/Platformer/Saved/BP_PlayerADDC6547E4E675BC8578BD0AF3F5E9AFF.tmp' to '../../../../../GitHub/comp313ass1v2/Platformer/Content/Platformer/Blueprints/BP_PlayerA.uasset'
+[2021.07.25-22.13.34:139][650]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Platformer/Screens/Game_Over_Widget" FILE="../../../../../GitHub/comp313ass1v2/Platformer/Content/Platformer/Screens/Game_Over_Widget.uasset" SILENT=true
+[2021.07.25-22.13.34:147][650]LogSavePackage: Moving '../../../../../GitHub/comp313ass1v2/Platformer/Saved/Game_Over_Widget53F51A27435F7C203C7F9C86D717912F.tmp' to '../../../../../GitHub/comp313ass1v2/Platformer/Content/Platformer/Screens/Game_Over_Widget.uasset'
+[2021.07.25-22.13.34:148][650]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Platformer/Maps/Level_00" FILE="../../../../../GitHub/comp313ass1v2/Platformer/Content/Platformer/Maps/Level_00.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.07.25-22.13.34:188][650]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2021.07.25-22.13.34:237][650]LogSavePackage: Moving '../../../../../GitHub/comp313ass1v2/Platformer/Saved/Level_007B4113B9407184C74D70DCA429D8AB13.tmp' to '../../../../../GitHub/comp313ass1v2/Platformer/Content/Platformer/Maps/Level_00.umap'
+[2021.07.25-22.13.34:249][650]LogFileHelpers: Saving map 'Level_00' took 0.102
+[2021.07.25-22.13.34:282][651]AssetCheck: New page: Asset Save: multiple assets
+[2021.07.25-22.13.34:282][651]LogContentValidation: Display: Validating Blueprint /Game/Platformer/Blueprints/BP_PlayerA.BP_PlayerA
+[2021.07.25-22.13.34:282][651]LogContentValidation: Display: Validating Blueprint /Game/Platformer/Blueprints/BP_Enemy.BP_Enemy
+[2021.07.25-22.13.34:282][651]LogContentValidation: Display: Validating WidgetBlueprint /Game/Platformer/Screens/Game_Over_Widget.Game_Over_Widget
+[2021.07.25-22.13.34:283][651]LogContentValidation: Display: Validating World /Game/Platformer/Maps/Level_00.Level_00
