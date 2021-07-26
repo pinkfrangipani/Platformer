@@ -4323,3 +4323,17 @@ Script Stack (0 frames):
 [2021.07.26-07.19.36:083][195]LogContentValidation: Display: Validating WidgetBlueprint /Game/Platformer/Screens/Game_Won_Widget.Game_Won_Widget
 [2021.07.26-07.20.43:148][846]BlueprintLog: New page: Compile Widget_HUD
 [2021.07.26-07.20.43:271][846]LogUObjectHash: Compacting FUObjectHashTables data took   4.58ms
+[2021.07.26-07.25.58:222][583]BlueprintLog: New page: Compile BP_Enemy
+[2021.07.26-07.25.58:324][583]LogUObjectHash: Compacting FUObjectHashTables data took   5.17ms
+[2021.07.26-07.26.01:679][933]LogTemp: Repeating last play command: Standalone Game
+[2021.07.26-07.26.01:737][933]LogUObjectHash: Compacting FUObjectHashTables data took   4.76ms
+[2021.07.26-07.26.03:136][933]LogSlate: Window 'Save Content' being destroyed
+[2021.07.26-07.26.03:158][933]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Platformer/Blueprints/BP_Enemy" FILE="../../../../../GitHub/comp313ass1v2/Platformer/Content/Platformer/Blueprints/BP_Enemy.uasset" SILENT=true
+[2021.07.26-07.26.03:205][933]LogSavePackage: Moving '../../../../../GitHub/comp313ass1v2/Platformer/Saved/BP_EnemyA8B477A84569793F2DB94680C5BD64D8.tmp' to '../../../../../GitHub/comp313ass1v2/Platformer/Content/Platformer/Blueprints/BP_Enemy.uasset'
+[2021.07.26-07.26.03:205][933]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Platformer/Blueprints/Widget_HUD" FILE="../../../../../GitHub/comp313ass1v2/Platformer/Content/Platformer/Blueprints/Widget_HUD.uasset" SILENT=true
+[2021.07.26-07.26.03:217][933]LogSavePackage: Moving '../../../../../GitHub/comp313ass1v2/Platformer/Saved/Widget_HUD45EDB97743E9F1C48420C68D1D38C285.tmp' to '../../../../../GitHub/comp313ass1v2/Platformer/Content/Platformer/Blueprints/Widget_HUD.uasset'
+[2021.07.26-07.26.03:249][934]AssetCheck: New page: Asset Save: multiple assets
+[2021.07.26-07.26.03:249][934]LogContentValidation: Display: Validating Blueprint /Game/Platformer/Blueprints/BP_Enemy.BP_Enemy
+[2021.07.26-07.26.03:249][934]LogContentValidation: Display: Validating WidgetBlueprint /Game/Platformer/Blueprints/Widget_HUD.Widget_HUD
+[2021.07.26-07.28.20:953][600]BlueprintLog: New page: Compile Main_Menu_Widget
+[2021.07.26-07.28.21:014][600]LogUObjectHash: Compacting FUObjectHashTables data took   5.35ms
