@@ -1354,3 +1354,737 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.07.25-22.13.34:282][651]LogContentValidation: Display: Validating Blueprint /Game/Platformer/Blueprints/BP_Enemy.BP_Enemy
 [2021.07.25-22.13.34:282][651]LogContentValidation: Display: Validating WidgetBlueprint /Game/Platformer/Screens/Game_Over_Widget.Game_Over_Widget
 [2021.07.25-22.13.34:283][651]LogContentValidation: Display: Validating World /Game/Platformer/Maps/Level_00.Level_00
+[2021.07.25-22.15.27:417][141]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2021.07.25-22.15.27:430][141]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2021.07.25-22.15.33:364][853]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> Settings_Widget
+[2021.07.25-22.15.33:368][853]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2021.07.25-22.15.37:172][296]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Platformer/Screens/Settings_Widget.Settings_Widget
+[2021.07.25-22.21.57:043][426]LogSlate: Window 'Color Picker' being destroyed
+[2021.07.25-22.22.04:427][296]LogSlate: Window 'Color Picker' being destroyed
+[2021.07.25-22.24.05:717][828]LogEditorTransaction: Undo Drag and Drop Widget
+[2021.07.25-22.26.13:254][210]LogUObjectHash: Compacting FUObjectHashTables data took   4.00ms
+[2021.07.25-22.26.13:256][210]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Platformer/Maps/Level_00' took 0.061
+[2021.07.25-22.26.13:256][210]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Platformer/Blueprints/BP_PlayerA] ([1] browsable assets)...
+[2021.07.25-22.26.13:257][210]OBJ SavePackage: Finished generating thumbnails for package [/Game/Platformer/Blueprints/BP_PlayerA]
+[2021.07.25-22.26.13:308][210]LogSavePackage: Moving '../../../../../GitHub/comp313ass1v2/Platformer/Saved/BP_PlayerA_Auto496000A2A4E5B2E8A396F49A946B997EE.tmp' to '../../../../../GitHub/comp313ass1v2/Platformer/Saved/Autosaves/Game/Platformer/Blueprints/BP_PlayerA_Auto4.uasset'
+[2021.07.25-22.26.13:309][210]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Platformer/Blueprints/BP_Shot] ([1] browsable assets)...
+[2021.07.25-22.26.13:309][210]OBJ SavePackage: Finished generating thumbnails for package [/Game/Platformer/Blueprints/BP_Shot]
+[2021.07.25-22.26.13:318][210]LogSavePackage: Moving '../../../../../GitHub/comp313ass1v2/Platformer/Saved/BP_Shot_Auto43B7094FA4EAE4D5B095758B4434623F6.tmp' to '../../../../../GitHub/comp313ass1v2/Platformer/Saved/Autosaves/Game/Platformer/Blueprints/BP_Shot_Auto4.uasset'
+[2021.07.25-22.26.13:319][210]LogFileHelpers: Auto-saving content packages took 0.062
+[2021.07.25-22.30.00:845][146]LogSlate: Window 'Color Picker' being destroyed
+[2021.07.25-22.30.04:354][537]LogSlate: Window 'Color Picker' being destroyed
+[2021.07.25-22.30.22:903][661]LogSlate: Window 'Color Picker' being destroyed
+[2021.07.25-22.30.32:224][717]LogSlate: Window 'Color Picker' being destroyed
+[2021.07.25-22.31.03:483][425]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Edit Specified Color entirely.
+[2021.07.25-22.32.08:779][ 54]LogSlate: Window 'Color Picker' being destroyed
+[2021.07.25-22.33.44:357][361]LogSlate: Window 'Color Picker' being destroyed
+[2021.07.25-22.33.49:193][908]LogSlate: Window 'Color Picker' being destroyed
+[2021.07.25-22.34.23:773][834]LogSlate: Window 'Color Picker' being destroyed
+[2021.07.25-22.34.32:805][875]LogSlate: Window 'Color Picker' being destroyed
+[2021.07.25-22.34.40:149][709]LogSlate: Window 'Color Picker' being destroyed
+[2021.07.25-22.35.07:761][968]LogSlate: Window 'Color Picker' being destroyed
+[2021.07.25-22.35.20:886][504]LogSlate: Window 'Color Picker' being destroyed
+[2021.07.25-22.39.39:637][282]LogUObjectHash: Compacting FUObjectHashTables data took   4.35ms
+[2021.07.25-22.39.39:639][282]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Platformer/Maps/Level_00' took 0.077
+[2021.07.25-22.39.39:640][282]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Platformer/Blueprints/BP_PlayerA] ([1] browsable assets)...
+[2021.07.25-22.39.39:640][282]OBJ SavePackage: Finished generating thumbnails for package [/Game/Platformer/Blueprints/BP_PlayerA]
+[2021.07.25-22.39.39:693][282]LogSavePackage: Moving '../../../../../GitHub/comp313ass1v2/Platformer/Saved/BP_PlayerA_Auto5BB69CCDD42D971DC9B11778B2F623034.tmp' to '../../../../../GitHub/comp313ass1v2/Platformer/Saved/Autosaves/Game/Platformer/Blueprints/BP_PlayerA_Auto5.uasset'
+[2021.07.25-22.39.39:694][282]LogFileHelpers: Auto-saving content packages took 0.054
+[2021.07.25-22.49.40:280][286]LogUObjectHash: Compacting FUObjectHashTables data took   4.41ms
+[2021.07.25-22.49.40:282][286]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Platformer/Maps/Level_00' took 0.073
+[2021.07.25-22.49.40:282][286]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Platformer/Blueprints/BP_Shot] ([1] browsable assets)...
+[2021.07.25-22.49.40:282][286]OBJ SavePackage: Finished generating thumbnails for package [/Game/Platformer/Blueprints/BP_Shot]
+[2021.07.25-22.49.40:291][286]LogSavePackage: Moving '../../../../../GitHub/comp313ass1v2/Platformer/Saved/BP_Shot_Auto6430552954D3390354A9A87BF901E8118.tmp' to '../../../../../GitHub/comp313ass1v2/Platformer/Saved/Autosaves/Game/Platformer/Blueprints/BP_Shot_Auto6.uasset'
+[2021.07.25-22.49.40:292][286]LogFileHelpers: Auto-saving content packages took 0.010
+[2021.07.25-22.59.49:048][915]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2021.07.25-22.59.49:053][915]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Platformer/Maps/Level_00' took 0.069
+[2021.07.25-22.59.49:053][915]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Platformer/Blueprints/BP_Shot] ([1] browsable assets)...
+[2021.07.25-22.59.49:053][915]OBJ SavePackage: Finished generating thumbnails for package [/Game/Platformer/Blueprints/BP_Shot]
+[2021.07.25-22.59.49:061][915]LogSavePackage: Moving '../../../../../GitHub/comp313ass1v2/Platformer/Saved/BP_Shot_Auto7524DE43F46D9C0F78ACAFB87D681C614.tmp' to '../../../../../GitHub/comp313ass1v2/Platformer/Saved/Autosaves/Game/Platformer/Blueprints/BP_Shot_Auto7.uasset'
+[2021.07.25-22.59.49:062][915]LogFileHelpers: Auto-saving content packages took 0.009
+[2021.07.25-23.05.53:927][459]LogSlate: Window 'Color Picker' being destroyed
+[2021.07.26-00.30.24:235][656]BlueprintLog: New page: Compile Settings_Widget
+[2021.07.26-00.30.24:236][656]LogBlueprint: Error: [AssetLog] /Game/Platformer/Screens/Settings_Widget.Settings_Widget (no disk path found): [Compiler] The type of  Object  is undetermined.  Connect something to  Cast To BP_Shot  to imply a specific type.
+[2021.07.26-00.30.24:237][656]LogBlueprint: Error: [AssetLog] /Game/Platformer/Screens/Settings_Widget.Settings_Widget (no disk path found): [Compiler] The current value of the ' Object ' pin is invalid: Unsupported type Object Wildcard on pin Object
+[2021.07.26-00.30.24:293][656]LogUObjectHash: Compacting FUObjectHashTables data took   4.02ms
+[2021.07.26-00.30.53:482][ 76]BlueprintLog: New page: Compile Settings_Widget
+[2021.07.26-00.30.53:486][ 76]LogBlueprint: Error: [AssetLog] /Game/Platformer/Screens/Settings_Widget.Settings_Widget (no disk path found): [Compiler] The type of  Object  is undetermined.  Connect something to  Cast To BP_Shot  to imply a specific type.
+[2021.07.26-00.30.53:486][ 76]LogBlueprint: Error: [AssetLog] /Game/Platformer/Screens/Settings_Widget.Settings_Widget (no disk path found): [Compiler] The current value of the ' Object ' pin is invalid: Unsupported type Object Wildcard on pin Object
+[2021.07.26-00.30.53:532][ 76]LogUObjectHash: Compacting FUObjectHashTables data took   3.57ms
+[2021.07.26-00.33.13:789][697]BlueprintLog: New page: Compile Settings_Widget
+[2021.07.26-00.33.16:217][697]LogBlueprint: Warning: [AssetLog] /Game/Platformer/Screens/Settings_Widget.Settings_Widget (no disk path found): [Compiler] 'BP Shot' does not inherit from 'Projectile Movement Component' ( Cast To BP_Shot  would always fail).
+[2021.07.26-00.33.16:219][697]LogBlueprint: Error: [AssetLog] /Game/Platformer/Screens/Settings_Widget.Settings_Widget (no disk path found): [Compiler] This blueprint (self) is not a BP_Shot_C, therefore ' Target ' must have a connection.
+[2021.07.26-00.33.16:220][697]LogBlueprint: Error: [AssetLog] /Game/Platformer/Screens/Settings_Widget.Settings_Widget (no disk path found): [Compiler] Variable node  Get ProjectileMovement  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2021.07.26-00.33.16:303][697]LogUObjectHash: Compacting FUObjectHashTables data took   3.67ms
+[2021.07.26-00.34.14:020][336]BlueprintLog: New page: Compile Settings_Widget
+[2021.07.26-00.34.14:022][336]LogBlueprint: Error: [AssetLog] /Game/Platformer/Screens/Settings_Widget.Settings_Widget (no disk path found): [Compiler] The type of  Object  is undetermined.  Connect something to  Cast To BP_Shot  to imply a specific type.
+[2021.07.26-00.34.14:022][336]LogBlueprint: Error: [AssetLog] /Game/Platformer/Screens/Settings_Widget.Settings_Widget (no disk path found): [Compiler] The current value of the ' Object ' pin is invalid: Unsupported type Wildcard on pin Object
+[2021.07.26-00.34.14:071][336]LogUObjectHash: Compacting FUObjectHashTables data took   3.69ms
+[2021.07.26-00.34.23:946][480]BlueprintLog: New page: Compile Settings_Widget
+[2021.07.26-00.34.23:948][480]LogBlueprint: Error: [AssetLog] /Game/Platformer/Screens/Settings_Widget.Settings_Widget (no disk path found): [Compiler] The type of  Object  is undetermined.  Connect something to  Cast To BP_Shot  to imply a specific type.
+[2021.07.26-00.34.23:948][480]LogBlueprint: Error: [AssetLog] /Game/Platformer/Screens/Settings_Widget.Settings_Widget (no disk path found): [Compiler] The current value of the ' Object ' pin is invalid: Unsupported type Wildcard on pin Object
+[2021.07.26-00.34.23:997][480]LogUObjectHash: Compacting FUObjectHashTables data took   3.77ms
+[2021.07.26-00.34.26:083][712]LogEditorTransaction: Undo Convert to Pure Cast
+[2021.07.26-00.35.30:053][ 86]BlueprintLog: New page: Compile Settings_Widget
+[2021.07.26-00.35.30:055][ 86]LogBlueprint: Error: [AssetLog] /Game/Platformer/Screens/Settings_Widget.Settings_Widget (no disk path found): [Compiler] The type of  Object  is undetermined.  Connect something to  Cast To BP_Shot  to imply a specific type.
+[2021.07.26-00.35.30:056][ 86]LogBlueprint: Error: [AssetLog] /Game/Platformer/Screens/Settings_Widget.Settings_Widget (no disk path found): [Compiler] The current value of the ' Object ' pin is invalid: Unsupported type Wildcard on pin Object
+[2021.07.26-00.35.30:103][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   3.59ms
+[2021.07.26-00.37.10:326][669]BlueprintLog: New page: Compile Settings_Widget
+[2021.07.26-00.37.10:328][669]LogBlueprint: Warning: [AssetLog] /Game/Platformer/Screens/Settings_Widget.Settings_Widget (no disk path found): [Compiler] 'BP Shot' does not inherit from 'Character' ( Cast To BP_Shot  would always fail).
+[2021.07.26-00.37.10:377][669]LogUObjectHash: Compacting FUObjectHashTables data took   4.32ms
+[2021.07.26-00.37.36:291][593]BlueprintLog: New page: Compile Settings_Widget
+[2021.07.26-00.37.36:294][593]LogBlueprint: Warning: [AssetLog] /Game/Platformer/Screens/Settings_Widget.Settings_Widget (no disk path found): [Compiler] 'BP Shot' does not inherit from 'Sphere Collision' ( Cast To BP_Shot  would always fail).
+[2021.07.26-00.37.36:294][593]LogBlueprint: Error: [AssetLog] /Game/Platformer/Screens/Settings_Widget.Settings_Widget (no disk path found): [Compiler] This blueprint (self) is not a BP_Shot_C, therefore ' Target ' must have a connection.
+[2021.07.26-00.37.36:294][593]LogBlueprint: Error: [AssetLog] /Game/Platformer/Screens/Settings_Widget.Settings_Widget (no disk path found): [Compiler] Variable node  Get Sphere  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2021.07.26-00.37.36:346][593]LogUObjectHash: Compacting FUObjectHashTables data took   3.85ms
+[2021.07.26-00.38.27:274][465]BlueprintLog: New page: Compile Settings_Widget
+[2021.07.26-00.38.27:276][465]LogBlueprint: Warning: [AssetLog] /Game/Platformer/Screens/Settings_Widget.Settings_Widget (no disk path found): [Compiler] 'BP Shot' does not inherit from 'Paper Flipbook Component' ( Cast To BP_Shot  would always fail).
+[2021.07.26-00.38.27:276][465]LogBlueprint: Error: [AssetLog] /Game/Platformer/Screens/Settings_Widget.Settings_Widget (no disk path found): [Compiler] This blueprint (self) is not a BP_Shot_C, therefore ' Target ' must have a connection.
+[2021.07.26-00.38.27:277][465]LogBlueprint: Error: [AssetLog] /Game/Platformer/Screens/Settings_Widget.Settings_Widget (no disk path found): [Compiler] Variable node  Get F_fireball  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2021.07.26-00.38.27:328][465]LogUObjectHash: Compacting FUObjectHashTables data took   4.10ms
+[2021.07.26-00.38.57:690][ 52]BlueprintLog: New page: Compile Settings_Widget
+[2021.07.26-00.38.57:693][ 52]LogBlueprint: Error: [AssetLog] /Game/Platformer/Screens/Settings_Widget.Settings_Widget (no disk path found): [Compiler] The type of  Object  is undetermined.  Connect something to  Cast To BP_Shot  to imply a specific type.
+[2021.07.26-00.38.57:693][ 52]LogBlueprint: Error: [AssetLog] /Game/Platformer/Screens/Settings_Widget.Settings_Widget (no disk path found): [Compiler] The current value of the ' Object ' pin is invalid: Unsupported type Wildcard on pin Object
+[2021.07.26-00.38.57:740][ 52]LogUObjectHash: Compacting FUObjectHashTables data took   4.16ms
+[2021.07.26-00.40.45:387][239]LogSlate: Took 0.019160 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2021.07.26-00.40.53:946][221]BlueprintLog: New page: Compile BP_Shot
+[2021.07.26-00.40.54:041][221]LogUObjectHash: Compacting FUObjectHashTables data took   3.65ms
+[2021.07.26-00.43.34:872][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   3.97ms
+[2021.07.26-00.43.34:875][ 45]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Platformer/Maps/Level_00' took 0.065
+[2021.07.26-00.43.34:876][ 45]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Platformer/Blueprints/BP_PlayerA] ([1] browsable assets)...
+[2021.07.26-00.43.34:876][ 45]OBJ SavePackage: Finished generating thumbnails for package [/Game/Platformer/Blueprints/BP_PlayerA]
+[2021.07.26-00.43.34:934][ 45]LogSavePackage: Moving '../../../../../GitHub/comp313ass1v2/Platformer/Saved/BP_PlayerA_Auto8633502934B302ECB718051A8DF64AC1C.tmp' to '../../../../../GitHub/comp313ass1v2/Platformer/Saved/Autosaves/Game/Platformer/Blueprints/BP_PlayerA_Auto8.uasset'
+[2021.07.26-00.43.34:935][ 45]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Platformer/Blueprints/BP_Shot] ([1] browsable assets)...
+[2021.07.26-00.43.34:935][ 45]OBJ SavePackage: Finished generating thumbnails for package [/Game/Platformer/Blueprints/BP_Shot]
+[2021.07.26-00.43.34:944][ 45]LogSavePackage: Moving '../../../../../GitHub/comp313ass1v2/Platformer/Saved/BP_Shot_Auto8856BA0574EBDC88D0D23EDBF1B37B149.tmp' to '../../../../../GitHub/comp313ass1v2/Platformer/Saved/Autosaves/Game/Platformer/Blueprints/BP_Shot_Auto8.uasset'
+[2021.07.26-00.43.34:944][ 45]LogFileHelpers: Auto-saving content packages took 0.069
+[2021.07.26-00.49.39:535][ 65]BlueprintLog: New page: Compile Settings_Widget
+[2021.07.26-00.49.39:538][ 65]LogBlueprint: Error: [AssetLog] /Game/Platformer/Screens/Settings_Widget.Settings_Widget (no disk path found): [Compiler] This blueprint (self) is not a BP_Shot_C, therefore ' Target ' must have a connection.
+[2021.07.26-00.49.39:538][ 65]LogBlueprint: Error: [AssetLog] /Game/Platformer/Screens/Settings_Widget.Settings_Widget (no disk path found): [Compiler] The type of  Object  is undetermined.  Connect something to  Cast To BP_Shot  to imply a specific type.
+[2021.07.26-00.49.39:538][ 65]LogBlueprint: Error: [AssetLog] /Game/Platformer/Screens/Settings_Widget.Settings_Widget (no disk path found): [Compiler] The current value of the ' Object ' pin is invalid: Unsupported type Wildcard on pin Object
+[2021.07.26-00.49.39:595][ 65]LogUObjectHash: Compacting FUObjectHashTables data took   3.90ms
+[2021.07.26-00.49.49:238][189]BlueprintLog: New page: Compile Settings_Widget
+[2021.07.26-00.49.49:240][189]LogBlueprint: Error: [AssetLog] /Game/Platformer/Screens/Settings_Widget.Settings_Widget (no disk path found): [Compiler] The type of  Object  is undetermined.  Connect something to  Cast To BP_Shot  to imply a specific type.
+[2021.07.26-00.49.49:240][189]LogBlueprint: Error: [AssetLog] /Game/Platformer/Screens/Settings_Widget.Settings_Widget (no disk path found): [Compiler] The current value of the ' Object ' pin is invalid: Unsupported type Wildcard on pin Object
+[2021.07.26-00.49.49:287][189]LogUObjectHash: Compacting FUObjectHashTables data took   3.79ms
+[2021.07.26-00.53.33:432][552]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.07.26-00.54.23:130][991]LogUObjectHash: Compacting FUObjectHashTables data took   3.93ms
+[2021.07.26-00.54.23:132][991]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Platformer/Maps/Level_00' took 0.052
+[2021.07.26-00.54.23:132][991]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Platformer/Blueprints/BP_Shot] ([1] browsable assets)...
+[2021.07.26-00.54.23:132][991]OBJ SavePackage: Finished generating thumbnails for package [/Game/Platformer/Blueprints/BP_Shot]
+[2021.07.26-00.54.23:143][991]LogSavePackage: Moving '../../../../../GitHub/comp313ass1v2/Platformer/Saved/BP_Shot_Auto96C424DF5421B1BC0A6A3579C524B575A.tmp' to '../../../../../GitHub/comp313ass1v2/Platformer/Saved/Autosaves/Game/Platformer/Blueprints/BP_Shot_Auto9.uasset'
+[2021.07.26-00.54.23:143][991]LogFileHelpers: Auto-saving content packages took 0.012
+[2021.07.26-00.55.17:370][ 36]BlueprintLog: New page: Compile Settings_Widget
+[2021.07.26-00.55.17:373][ 36]LogBlueprint: Warning: [AssetLog] /Game/Platformer/Screens/Settings_Widget.Settings_Widget (no disk path found): [Compiler] Get All Actors Of Class  was pruned because its Exec pin is not connected, the connected value is not available and will instead be read as default
+[2021.07.26-00.55.17:373][ 36]LogBlueprint: Error: [AssetLog] /Game/Platformer/Screens/Settings_Widget.Settings_Widget (no disk path found): [Compiler] The current value of the ' Array generated from expanding Get (a copy) ' pin is invalid: Array inputs (like 'Target Array') must have an input wired into them (try connecting a MakeArray node).
+[2021.07.26-00.55.17:422][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   3.56ms
+[2021.07.26-00.55.56:593][637]BlueprintLog: New page: Compile Settings_Widget
+[2021.07.26-00.55.56:596][637]LogBlueprint: Warning: [AssetLog] /Game/Platformer/Screens/Settings_Widget.Settings_Widget (no disk path found): [Compiler] Get All Actors Of Class  was pruned because its Exec pin is not connected, the connected value is not available and will instead be read as default
+[2021.07.26-00.55.56:597][637]LogBlueprint: Error: [AssetLog] /Game/Platformer/Screens/Settings_Widget.Settings_Widget (no disk path found): [Compiler] The current value of the ' Array generated from expanding Get (a copy) ' pin is invalid: Array inputs (like 'Target Array') must have an input wired into them (try connecting a MakeArray node).
+[2021.07.26-00.55.56:650][637]LogUObjectHash: Compacting FUObjectHashTables data took   3.70ms
+[2021.07.26-00.56.10:792][279]BlueprintLog: New page: Compile Settings_Widget
+[2021.07.26-00.56.10:794][279]LogBlueprint: Warning: [AssetLog] /Game/Platformer/Screens/Settings_Widget.Settings_Widget (no disk path found): [Compiler] Get All Actors Of Class  was pruned because its Exec pin is not connected, the connected value is not available and will instead be read as default
+[2021.07.26-00.56.10:795][279]LogBlueprint: Error: [AssetLog] /Game/Platformer/Screens/Settings_Widget.Settings_Widget (no disk path found): [Compiler] The current value of the ' Array generated from expanding Get (a copy) ' pin is invalid: Array inputs (like 'Target Array') must have an input wired into them (try connecting a MakeArray node).
+[2021.07.26-00.56.10:845][279]LogUObjectHash: Compacting FUObjectHashTables data took   3.61ms
+[2021.07.26-00.57.39:351][615]BlueprintLog: New page: Compile Settings_Widget
+[2021.07.26-00.57.39:353][615]LogBlueprint: Error: [AssetLog] /Game/Platformer/Screens/Settings_Widget.Settings_Widget (no disk path found): [Compiler] This blueprint (self) is not a BP_Shot_C, therefore ' Target ' must have a connection.
+[2021.07.26-00.57.39:404][615]LogUObjectHash: Compacting FUObjectHashTables data took   3.70ms
+[2021.07.26-02.40.20:091][731]BlueprintLog: New page: Compile Settings_Widget
+[2021.07.26-02.40.20:154][731]LogUObjectHash: Compacting FUObjectHashTables data took   4.28ms
+[2021.07.26-02.41.06:241][104]BlueprintLog: New page: Compile BP_Shot
+[2021.07.26-02.41.06:343][104]LogUObjectHash: Compacting FUObjectHashTables data took   3.60ms
+[2021.07.26-02.42.13:009][803]BlueprintLog: New page: Compile BP_PlayerA
+[2021.07.26-02.42.13:140][803]LogUObjectHash: Compacting FUObjectHashTables data took   3.68ms
+[2021.07.26-02.42.37:715][558]LogUObjectHash: Compacting FUObjectHashTables data took   3.79ms
+[2021.07.26-02.42.39:838][558]LogSlate: Window 'Save Content' being destroyed
+[2021.07.26-02.42.39:858][558]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Platformer/Blueprints/BP_PlayerA" FILE="../../../../../GitHub/comp313ass1v2/Platformer/Content/Platformer/Blueprints/BP_PlayerA.uasset" SILENT=true
+[2021.07.26-02.42.39:913][558]LogSavePackage: Moving '../../../../../GitHub/comp313ass1v2/Platformer/Saved/BP_PlayerA88F68DA945AB2F7DF06BA9B3998E2C35.tmp' to '../../../../../GitHub/comp313ass1v2/Platformer/Content/Platformer/Blueprints/BP_PlayerA.uasset'
+[2021.07.26-02.42.39:913][558]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Platformer/Blueprints/BP_Shot" FILE="../../../../../GitHub/comp313ass1v2/Platformer/Content/Platformer/Blueprints/BP_Shot.uasset" SILENT=true
+[2021.07.26-02.42.39:922][558]LogSavePackage: Moving '../../../../../GitHub/comp313ass1v2/Platformer/Saved/BP_Shot2AA846F74B2BEA474236159CA8F651D8.tmp' to '../../../../../GitHub/comp313ass1v2/Platformer/Content/Platformer/Blueprints/BP_Shot.uasset'
+[2021.07.26-02.42.39:923][558]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Platformer/Maps/Level_00" FILE="../../../../../GitHub/comp313ass1v2/Platformer/Content/Platformer/Maps/Level_00.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.07.26-02.42.39:968][558]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2021.07.26-02.42.40:016][558]LogSavePackage: Moving '../../../../../GitHub/comp313ass1v2/Platformer/Saved/Level_00B590BF1246A654FCB78CBC8ED75600BA.tmp' to '../../../../../GitHub/comp313ass1v2/Platformer/Content/Platformer/Maps/Level_00.umap'
+[2021.07.26-02.42.40:032][558]LogFileHelpers: Saving map 'Level_00' took 0.109
+[2021.07.26-02.42.40:033][558]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Platformer/Screens/Settings_Widget" FILE="../../../../../GitHub/comp313ass1v2/Platformer/Content/Platformer/Screens/Settings_Widget.uasset" SILENT=true
+[2021.07.26-02.42.40:046][558]LogSavePackage: Moving '../../../../../GitHub/comp313ass1v2/Platformer/Saved/Settings_WidgetD02A259045E6244CCDCE90B43535D479.tmp' to '../../../../../GitHub/comp313ass1v2/Platformer/Content/Platformer/Screens/Settings_Widget.uasset'
+[2021.07.26-02.42.40:076][558]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Platformer/Maps/Main_Menu_Level.Main_Menu_Level
+[2021.07.26-02.42.40:092][558]Cmd: MAP LOAD FILE="../../../../../GitHub/comp313ass1v2/Platformer/Content/Platformer/Maps/Main_Menu_Level.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.07.26-02.42.40:092][558]LightingResults: New page: Lighting Build
+[2021.07.26-02.42.40:092][558]LoadErrors: New page: Loading map: Main_Menu_Level.umap
+[2021.07.26-02.42.40:095][558]LogWorld: UWorld::CleanupWorld for Level_00, bSessionEnded=true, bCleanupResources=true
+[2021.07.26-02.42.40:095][558]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.26-02.42.40:095][558]MapCheck: New page: Map Check
+[2021.07.26-02.42.40:095][558]LightingResults: New page: Lighting Build
+[2021.07.26-02.42.40:137][558]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.07.26-02.42.40:145][558]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2021.07.26-02.42.40:145][558]LogAudio: Display: Audio Device (ID: 1) registered with world 'Main_Menu_Level'.
+[2021.07.26-02.42.40:232][558]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.07.26-02.42.40:233][558]LogAIModule: Creating AISystem for world Main_Menu_Level
+[2021.07.26-02.42.40:278][558]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2021.07.26-02.42.40:291][558]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.07.26-02.42.40:291][558]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.081ms to complete.
+[2021.07.26-02.42.40:291][558]LogFileHelpers: Loading map 'Main_Menu_Level' took 0.215
+[2021.07.26-02.42.40:316][558]AssetCheck: New page: Asset Save: multiple assets
+[2021.07.26-02.42.40:316][558]LogContentValidation: Display: Validating Blueprint /Game/Platformer/Blueprints/BP_PlayerA.BP_PlayerA
+[2021.07.26-02.42.40:316][558]LogContentValidation: Display: Validating Blueprint /Game/Platformer/Blueprints/BP_Shot.BP_Shot
+[2021.07.26-02.42.40:316][558]LogContentValidation: Display: Validating WidgetBlueprint /Game/Platformer/Screens/Settings_Widget.Settings_Widget
+[2021.07.26-02.42.40:317][558]LogContentValidation: Display: Validating World /Game/Platformer/Maps/Level_00.Level_00
+[2021.07.26-02.42.42:080][758]LogTemp: Repeating last play command: Standalone Game
+[2021.07.26-02.42.42:133][758]LogUObjectHash: Compacting FUObjectHashTables data took   3.31ms
+[2021.07.26-02.52.38:966][325]LogUObjectHash: Compacting FUObjectHashTables data took   4.15ms
+[2021.07.26-02.52.38:972][325]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Platformer/Maps/Main_Menu_Level' took 0.075
+[2021.07.26-02.52.38:973][325]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Platformer/Screens/Main_Menu_Widget] ([1] browsable assets)...
+[2021.07.26-02.52.38:973][325]OBJ SavePackage: Finished generating thumbnails for package [/Game/Platformer/Screens/Main_Menu_Widget]
+[2021.07.26-02.52.38:982][325]LogSavePackage: Moving '../../../../../GitHub/comp313ass1v2/Platformer/Saved/Main_Menu_Widget_Auto05A3467E041BC3FC25BA406B5D41F6ADC.tmp' to '../../../../../GitHub/comp313ass1v2/Platformer/Saved/Autosaves/Game/Platformer/Screens/Main_Menu_Widget_Auto0.uasset'
+[2021.07.26-02.52.38:983][325]LogFileHelpers: Auto-saving content packages took 0.010
+[2021.07.26-02.53.38:994][943]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Platformer/Maps/Main_Menu_Level.Main_Menu_Level:PersistentLevel.Main_Menu_Level
+[2021.07.26-02.54.01:381][357]LogContentBrowser: Deferred new asset file creation: NewWorld
+[2021.07.26-02.54.01:396][357]LogContentBrowser: Creating deferred item: NewWorld
+[2021.07.26-02.54.11:716][594]LogContentBrowser: Attempting asset rename: NewWorld -> Settings_Menu_Level
+[2021.07.26-02.54.11:770][594]LogContentBrowser: End creating deferred item NewWorld
+[2021.07.26-02.54.13:596][801]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2021.07.26-02.54.16:403][801]LogSlate: Window 'Save Content' being destroyed
+[2021.07.26-02.54.17:489][919]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2021.07.26-02.54.17:494][919]LogSavePackage: Moving '../../../../../GitHub/comp313ass1v2/Platformer/Saved/Main_Menu_LevelB6F0D6A6410F46A587D6A4BA9D1F9E16.tmp' to '../../../../../GitHub/comp313ass1v2/Platformer/Content/Platformer/Maps/Main_Menu_Level.umap'
+[2021.07.26-02.54.17:515][919]AssetCheck: New page: Asset Save: Main_Menu_Level
+[2021.07.26-02.54.17:515][919]LogContentValidation: Display: Validating World /Game/Platformer/Maps/Main_Menu_Level.Main_Menu_Level
+[2021.07.26-02.54.26:687][970]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2021.07.26-02.54.27:717][970]LogSlate: Window 'Save Content' being destroyed
+[2021.07.26-02.54.27:746][970]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Platformer/Screens/Main_Menu_Widget" FILE="../../../../../GitHub/comp313ass1v2/Platformer/Content/Platformer/Screens/Main_Menu_Widget.uasset" SILENT=true
+[2021.07.26-02.54.27:755][970]LogSavePackage: Moving '../../../../../GitHub/comp313ass1v2/Platformer/Saved/Main_Menu_Widget2E1A085D48077416028822BAC78B28B8.tmp' to '../../../../../GitHub/comp313ass1v2/Platformer/Content/Platformer/Screens/Main_Menu_Widget.uasset'
+[2021.07.26-02.54.27:801][970]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2021.07.26-02.54.27:803][970]LogSavePackage: Moving '../../../../../GitHub/comp313ass1v2/Platformer/Saved/Settings_Menu_Level6E009E474E96005AEE17609A220E307C.tmp' to '../../../../../GitHub/comp313ass1v2/Platformer/Content/Platformer/Maps/Settings_Menu_Level.umap'
+[2021.07.26-02.54.27:803][970]LogFileHelpers: Saving map 'Settings_Menu_Level' took 0.048
+[2021.07.26-02.54.27:829][970]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Platformer/Maps/Settings_Menu_Level.Settings_Menu_Level
+[2021.07.26-02.54.27:829][970]Cmd: MAP LOAD FILE="../../../../../GitHub/comp313ass1v2/Platformer/Content/Platformer/Maps/Settings_Menu_Level.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.07.26-02.54.27:829][970]LightingResults: New page: Lighting Build
+[2021.07.26-02.54.27:829][970]LoadErrors: New page: Loading map: Settings_Menu_Level.umap
+[2021.07.26-02.54.27:837][970]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2021.07.26-02.54.27:838][970]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.26-02.54.27:878][970]LogWorld: UWorld::CleanupWorld for Main_Menu_Level, bSessionEnded=true, bCleanupResources=true
+[2021.07.26-02.54.27:878][970]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.26-02.54.27:878][970]MapCheck: New page: Map Check
+[2021.07.26-02.54.27:878][970]LightingResults: New page: Lighting Build
+[2021.07.26-02.54.27:920][970]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.07.26-02.54.27:926][970]LogUObjectHash: Compacting FUObjectHashTables data took   3.10ms
+[2021.07.26-02.54.27:973][970]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2021.07.26-02.54.28:016][970]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2021.07.26-02.54.28:016][970]LogAudio: Display: Audio Device (ID: 1) registered with world 'Settings_Menu_Level'.
+[2021.07.26-02.54.28:088][970]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.07.26-02.54.28:088][970]LogAIModule: Creating AISystem for world Settings_Menu_Level
+[2021.07.26-02.54.28:133][970]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2021.07.26-02.54.28:142][970]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.07.26-02.54.28:142][970]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.088ms to complete.
+[2021.07.26-02.54.28:142][970]LogFileHelpers: Loading map 'Settings_Menu_Level' took 0.313
+[2021.07.26-02.54.28:163][970]AssetCheck: New page: Asset Save: multiple assets
+[2021.07.26-02.54.28:163][970]LogContentValidation: Display: Validating World /Game/Platformer/Maps/Settings_Menu_Level.Settings_Menu_Level
+[2021.07.26-02.54.28:163][970]LogContentValidation: Display: Validating WidgetBlueprint /Game/Platformer/Screens/Main_Menu_Widget.Main_Menu_Widget
+[2021.07.26-02.54.39:980][333]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2021.07.26-02.54.39:999][333]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Platformer/Maps/Main_Menu_Level.Main_Menu_Level
+[2021.07.26-02.54.39:999][333]Cmd: MAP LOAD FILE="../../../../../GitHub/comp313ass1v2/Platformer/Content/Platformer/Maps/Main_Menu_Level.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.07.26-02.54.39:999][333]LightingResults: New page: Lighting Build
+[2021.07.26-02.54.39:999][333]LoadErrors: New page: Loading map: Main_Menu_Level.umap
+[2021.07.26-02.54.40:000][333]LogWorld: UWorld::CleanupWorld for Settings_Menu_Level, bSessionEnded=true, bCleanupResources=true
+[2021.07.26-02.54.40:000][333]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.26-02.54.40:000][333]MapCheck: New page: Map Check
+[2021.07.26-02.54.40:000][333]LightingResults: New page: Lighting Build
+[2021.07.26-02.54.40:040][333]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.07.26-02.54.40:044][333]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2021.07.26-02.54.40:044][333]LogAudio: Display: Audio Device (ID: 1) registered with world 'Main_Menu_Level'.
+[2021.07.26-02.54.40:114][333]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.07.26-02.54.40:114][333]LogAIModule: Creating AISystem for world Main_Menu_Level
+[2021.07.26-02.54.40:160][333]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2021.07.26-02.54.40:169][333]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.07.26-02.54.40:169][333]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.079ms to complete.
+[2021.07.26-02.54.40:169][333]LogFileHelpers: Loading map 'Main_Menu_Level' took 0.169
+[2021.07.26-02.54.44:209][774]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Platformer/Maps/Main_Menu_Level.Main_Menu_Level:PersistentLevel.Main_Menu_Level
+[2021.07.26-02.55.34:928][791]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2021.07.26-02.55.34:928][791]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.26-02.55.37:559][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2021.07.26-02.55.37:578][ 64]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Platformer/Maps/Settings_Menu_Level.Settings_Menu_Level
+[2021.07.26-02.55.37:578][ 64]Cmd: MAP LOAD FILE="../../../../../GitHub/comp313ass1v2/Platformer/Content/Platformer/Maps/Settings_Menu_Level.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.07.26-02.55.37:578][ 64]LightingResults: New page: Lighting Build
+[2021.07.26-02.55.37:578][ 64]LoadErrors: New page: Loading map: Settings_Menu_Level.umap
+[2021.07.26-02.55.37:579][ 64]LogWorld: UWorld::CleanupWorld for Main_Menu_Level, bSessionEnded=true, bCleanupResources=true
+[2021.07.26-02.55.37:579][ 64]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.26-02.55.37:579][ 64]MapCheck: New page: Map Check
+[2021.07.26-02.55.37:579][ 64]LightingResults: New page: Lighting Build
+[2021.07.26-02.55.37:621][ 64]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.07.26-02.55.37:624][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2021.07.26-02.55.37:625][ 64]LogAudio: Display: Audio Device (ID: 1) registered with world 'Settings_Menu_Level'.
+[2021.07.26-02.55.37:691][ 64]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.07.26-02.55.37:691][ 64]LogAIModule: Creating AISystem for world Settings_Menu_Level
+[2021.07.26-02.55.37:736][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2021.07.26-02.55.37:745][ 64]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.07.26-02.55.37:745][ 64]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.081ms to complete.
+[2021.07.26-02.55.37:745][ 64]LogFileHelpers: Loading map 'Settings_Menu_Level' took 0.166
+[2021.07.26-02.55.40:222][322]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Platformer/Maps/Settings_Menu_Level.Settings_Menu_Level:PersistentLevel.Settings_Menu_Level
+[2021.07.26-02.56.12:231][978]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.07.26-02.56.26:337][479]BlueprintLog: New page: Compile Settings_Menu_Level
+[2021.07.26-02.56.26:338][479]LogBlueprint: Error: [AssetLog] D:\GitHub\comp313ass1v2\Platformer\Content\Platformer\Maps\Settings_Menu_Level.umap: [Compiler] This blueprint (self) is not a UserWidget, therefore ' Target ' must have a connection.
+[2021.07.26-02.56.26:388][479]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2021.07.26-02.56.40:695][104]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2021.07.26-02.56.42:441][104]LogSlate: Window 'Save Content' being destroyed
+[2021.07.26-02.56.42:518][104]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2021.07.26-02.56.42:523][104]LogSavePackage: Moving '../../../../../GitHub/comp313ass1v2/Platformer/Saved/Settings_Menu_LevelF8A3388E4B54F28F481378A51DD0075A.tmp' to '../../../../../GitHub/comp313ass1v2/Platformer/Content/Platformer/Maps/Settings_Menu_Level.umap'
+[2021.07.26-02.56.42:532][104]LogFileHelpers: Saving map 'Settings_Menu_Level' took 0.058
+[2021.07.26-02.56.42:564][104]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Platformer/Maps/Main_Menu_Level.Main_Menu_Level
+[2021.07.26-02.56.42:564][104]Cmd: MAP LOAD FILE="../../../../../GitHub/comp313ass1v2/Platformer/Content/Platformer/Maps/Main_Menu_Level.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.07.26-02.56.42:564][104]LightingResults: New page: Lighting Build
+[2021.07.26-02.56.42:564][104]LoadErrors: New page: Loading map: Main_Menu_Level.umap
+[2021.07.26-02.56.42:574][104]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2021.07.26-02.56.42:574][104]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.26-02.56.42:615][104]LogWorld: UWorld::CleanupWorld for Settings_Menu_Level, bSessionEnded=true, bCleanupResources=true
+[2021.07.26-02.56.42:615][104]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.26-02.56.42:615][104]MapCheck: New page: Map Check
+[2021.07.26-02.56.42:615][104]LightingResults: New page: Lighting Build
+[2021.07.26-02.56.42:657][104]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.07.26-02.56.42:662][104]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2021.07.26-02.56.42:662][104]LogAudio: Display: Audio Device (ID: 1) registered with world 'Main_Menu_Level'.
+[2021.07.26-02.56.42:732][104]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.07.26-02.56.42:732][104]LogAIModule: Creating AISystem for world Main_Menu_Level
+[2021.07.26-02.56.42:778][104]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2021.07.26-02.56.42:789][104]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.07.26-02.56.42:789][104]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.082ms to complete.
+[2021.07.26-02.56.42:789][104]LogFileHelpers: Loading map 'Main_Menu_Level' took 0.225
+[2021.07.26-02.56.42:811][104]AssetCheck: New page: Asset Save: Settings_Menu_Level
+[2021.07.26-02.56.42:811][104]LogContentValidation: Display: Validating World /Game/Platformer/Maps/Settings_Menu_Level.Settings_Menu_Level
+[2021.07.26-02.56.42:814][104]LogBlueprint: Error: [AssetLog] D:\GitHub\comp313ass1v2\Platformer\Content\Platformer\Maps\Settings_Menu_Level.umap: [Compiler] This blueprint (self) is not a UserWidget, therefore ' Target ' must have a connection.
+[2021.07.26-02.56.48:273][718]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Platformer/Maps/Main_Menu_Level.Main_Menu_Level:PersistentLevel.Main_Menu_Level
+[2021.07.26-02.56.56:667][635]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2021.07.26-02.56.56:690][635]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Platformer/Maps/Settings_Menu_Level.Settings_Menu_Level
+[2021.07.26-02.56.56:690][635]Cmd: MAP LOAD FILE="../../../../../GitHub/comp313ass1v2/Platformer/Content/Platformer/Maps/Settings_Menu_Level.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.07.26-02.56.56:690][635]LightingResults: New page: Lighting Build
+[2021.07.26-02.56.56:690][635]LoadErrors: New page: Loading map: Settings_Menu_Level.umap
+[2021.07.26-02.56.56:699][635]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2021.07.26-02.56.56:699][635]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.26-02.56.56:739][635]LogWorld: UWorld::CleanupWorld for Main_Menu_Level, bSessionEnded=true, bCleanupResources=true
+[2021.07.26-02.56.56:740][635]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.26-02.56.56:740][635]MapCheck: New page: Map Check
+[2021.07.26-02.56.56:740][635]LightingResults: New page: Lighting Build
+[2021.07.26-02.56.56:781][635]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.07.26-02.56.56:787][635]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2021.07.26-02.56.56:787][635]LogAudio: Display: Audio Device (ID: 1) registered with world 'Settings_Menu_Level'.
+[2021.07.26-02.56.56:866][635]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.07.26-02.56.56:866][635]LogAIModule: Creating AISystem for world Settings_Menu_Level
+[2021.07.26-02.56.56:911][635]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2021.07.26-02.56.56:921][635]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.07.26-02.56.56:921][635]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.08ms to complete.
+[2021.07.26-02.56.56:921][635]LogFileHelpers: Loading map 'Settings_Menu_Level' took 0.232
+[2021.07.26-02.57.05:888][560]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Platformer/Maps/Settings_Menu_Level.Settings_Menu_Level:PersistentLevel.Settings_Menu_Level
+[2021.07.26-02.57.09:910][976]BlueprintLog: New page: Compile Settings_Menu_Level
+[2021.07.26-02.57.09:983][976]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2021.07.26-02.57.14:350][460]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2021.07.26-02.57.15:737][460]LogSlate: Window 'Save Content' being destroyed
+[2021.07.26-02.57.15:800][460]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2021.07.26-02.57.15:805][460]LogSavePackage: Moving '../../../../../GitHub/comp313ass1v2/Platformer/Saved/Settings_Menu_LevelDE68DAAE4217A214E8BC2EBB67B589C8.tmp' to '../../../../../GitHub/comp313ass1v2/Platformer/Content/Platformer/Maps/Settings_Menu_Level.umap'
+[2021.07.26-02.57.15:815][460]LogFileHelpers: Saving map 'Settings_Menu_Level' took 0.060
+[2021.07.26-02.57.15:844][460]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Platformer/Maps/Main_Menu_Level.Main_Menu_Level
+[2021.07.26-02.57.15:844][460]Cmd: MAP LOAD FILE="../../../../../GitHub/comp313ass1v2/Platformer/Content/Platformer/Maps/Main_Menu_Level.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.07.26-02.57.15:844][460]LightingResults: New page: Lighting Build
+[2021.07.26-02.57.15:844][460]LoadErrors: New page: Loading map: Main_Menu_Level.umap
+[2021.07.26-02.57.15:853][460]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2021.07.26-02.57.15:853][460]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.26-02.57.15:893][460]LogWorld: UWorld::CleanupWorld for Settings_Menu_Level, bSessionEnded=true, bCleanupResources=true
+[2021.07.26-02.57.15:894][460]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.26-02.57.15:894][460]MapCheck: New page: Map Check
+[2021.07.26-02.57.15:894][460]LightingResults: New page: Lighting Build
+[2021.07.26-02.57.15:935][460]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.07.26-02.57.15:940][460]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2021.07.26-02.57.15:940][460]LogAudio: Display: Audio Device (ID: 1) registered with world 'Main_Menu_Level'.
+[2021.07.26-02.57.16:011][460]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.07.26-02.57.16:011][460]LogAIModule: Creating AISystem for world Main_Menu_Level
+[2021.07.26-02.57.16:056][460]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2021.07.26-02.57.16:066][460]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.07.26-02.57.16:066][460]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.12ms to complete.
+[2021.07.26-02.57.16:066][460]LogFileHelpers: Loading map 'Main_Menu_Level' took 0.222
+[2021.07.26-02.57.16:090][460]AssetCheck: New page: Asset Save: Settings_Menu_Level
+[2021.07.26-02.57.16:090][460]LogContentValidation: Display: Validating World /Game/Platformer/Maps/Settings_Menu_Level.Settings_Menu_Level
+[2021.07.26-02.57.17:946][676]LogTemp: Repeating last play command: Standalone Game
+[2021.07.26-02.57.17:994][676]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2021.07.26-02.58.32:957][778]BlueprintLog: New page: Compile Main_Menu_Widget
+[2021.07.26-02.58.33:004][778]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2021.07.26-02.58.42:586][908]LogTemp: Repeating last play command: Standalone Game
+[2021.07.26-02.58.42:637][908]LogUObjectHash: Compacting FUObjectHashTables data took   3.43ms
+[2021.07.26-02.58.44:056][908]LogSlate: Window 'Save Content' being destroyed
+[2021.07.26-02.58.44:087][908]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Platformer/Screens/Main_Menu_Widget" FILE="../../../../../GitHub/comp313ass1v2/Platformer/Content/Platformer/Screens/Main_Menu_Widget.uasset" SILENT=true
+[2021.07.26-02.58.44:097][908]LogSavePackage: Moving '../../../../../GitHub/comp313ass1v2/Platformer/Saved/Main_Menu_Widget75DACEAE4ED202F721DBE2825610DDAF.tmp' to '../../../../../GitHub/comp313ass1v2/Platformer/Content/Platformer/Screens/Main_Menu_Widget.uasset'
+[2021.07.26-02.58.44:122][909]AssetCheck: New page: Asset Save: Main_Menu_Widget
+[2021.07.26-02.58.44:122][909]LogContentValidation: Display: Validating WidgetBlueprint /Game/Platformer/Screens/Main_Menu_Widget.Main_Menu_Widget
+[2021.07.26-03.25.43:331][782]BlueprintLog: New page: Compile Settings_Widget
+[2021.07.26-03.25.43:392][782]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2021.07.26-03.25.44:152][849]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Platformer/Screens/Settings_Widget" FILE="../../../../../GitHub/comp313ass1v2/Platformer/Content/Platformer/Screens/Settings_Widget.uasset" SILENT=true
+[2021.07.26-03.25.44:165][849]LogSavePackage: Moving '../../../../../GitHub/comp313ass1v2/Platformer/Saved/Settings_WidgetDE0CA42A49D7EF1CAE271FBEB53D0F6E.tmp' to '../../../../../GitHub/comp313ass1v2/Platformer/Content/Platformer/Screens/Settings_Widget.uasset'
+[2021.07.26-03.25.44:178][849]AssetCheck: New page: Asset Save: Settings_Widget
+[2021.07.26-03.25.44:178][849]LogContentValidation: Display: Validating WidgetBlueprint /Game/Platformer/Screens/Settings_Widget.Settings_Widget
+[2021.07.26-03.25.46:217][ 64]LogTemp: Repeating last play command: Standalone Game
+[2021.07.26-03.25.46:271][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   3.93ms
+[2021.07.26-03.26.35:204][469]BlueprintLog: New page: Compile Settings_Widget
+[2021.07.26-03.26.35:253][469]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2021.07.26-03.26.42:948][367]LogTemp: Repeating last play command: Standalone Game
+[2021.07.26-03.26.43:000][367]LogUObjectHash: Compacting FUObjectHashTables data took   3.75ms
+[2021.07.26-03.26.44:417][367]LogSlate: Window 'Save Content' being destroyed
+[2021.07.26-03.26.44:450][367]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Platformer/Screens/Settings_Widget" FILE="../../../../../GitHub/comp313ass1v2/Platformer/Content/Platformer/Screens/Settings_Widget.uasset" SILENT=true
+[2021.07.26-03.26.44:464][367]LogSavePackage: Moving '../../../../../GitHub/comp313ass1v2/Platformer/Saved/Settings_Widget4F11953A4B85B4E35FAA6696662162BF.tmp' to '../../../../../GitHub/comp313ass1v2/Platformer/Content/Platformer/Screens/Settings_Widget.uasset'
+[2021.07.26-03.26.44:489][368]AssetCheck: New page: Asset Save: Settings_Widget
+[2021.07.26-03.26.44:489][368]LogContentValidation: Display: Validating WidgetBlueprint /Game/Platformer/Screens/Settings_Widget.Settings_Widget
+[2021.07.26-03.31.10:474][766]LogEditorTransaction: Undo Move Nodes
+[2021.07.26-03.31.11:072][783]LogEditorTransaction: Undo Break Pin Link
+[2021.07.26-03.31.27:488][580]BlueprintLog: New page: Compile Settings_Widget
+[2021.07.26-03.31.27:566][580]LogUObjectHash: Compacting FUObjectHashTables data took   3.96ms
+[2021.07.26-03.31.31:674][ 40]LogTemp: Repeating last play command: Standalone Game
+[2021.07.26-03.31.31:724][ 40]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2021.07.26-03.31.32:821][ 40]LogSlate: Window 'Save Content' being destroyed
+[2021.07.26-03.31.32:843][ 40]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Platformer/Screens/Settings_Widget" FILE="../../../../../GitHub/comp313ass1v2/Platformer/Content/Platformer/Screens/Settings_Widget.uasset" SILENT=true
+[2021.07.26-03.31.32:857][ 40]LogSavePackage: Moving '../../../../../GitHub/comp313ass1v2/Platformer/Saved/Settings_WidgetFFE5A0464B0BD22B21A895A578FFEB77.tmp' to '../../../../../GitHub/comp313ass1v2/Platformer/Content/Platformer/Screens/Settings_Widget.uasset'
+[2021.07.26-03.31.32:880][ 41]AssetCheck: New page: Asset Save: Settings_Widget
+[2021.07.26-03.31.32:880][ 41]LogContentValidation: Display: Validating WidgetBlueprint /Game/Platformer/Screens/Settings_Widget.Settings_Widget
+[2021.07.26-03.32.10:296][201]BlueprintLog: New page: Compile Settings_Widget
+[2021.07.26-03.32.10:365][201]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2021.07.26-03.32.16:342][894]LogTemp: Repeating last play command: Standalone Game
+[2021.07.26-03.32.16:392][894]LogUObjectHash: Compacting FUObjectHashTables data took   3.34ms
+[2021.07.26-03.32.17:715][894]LogSlate: Window 'Save Content' being destroyed
+[2021.07.26-03.32.17:742][894]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Platformer/Screens/Settings_Widget" FILE="../../../../../GitHub/comp313ass1v2/Platformer/Content/Platformer/Screens/Settings_Widget.uasset" SILENT=true
+[2021.07.26-03.32.17:756][894]LogSavePackage: Moving '../../../../../GitHub/comp313ass1v2/Platformer/Saved/Settings_Widget2B26D0274F8930713A02DEBEB2368A33.tmp' to '../../../../../GitHub/comp313ass1v2/Platformer/Content/Platformer/Screens/Settings_Widget.uasset'
+[2021.07.26-03.32.17:780][895]AssetCheck: New page: Asset Save: Settings_Widget
+[2021.07.26-03.32.17:780][895]LogContentValidation: Display: Validating WidgetBlueprint /Game/Platformer/Screens/Settings_Widget.Settings_Widget
+[2021.07.26-03.33.30:623][253]BlueprintLog: New page: Compile Settings_Widget
+[2021.07.26-03.33.30:696][253]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2021.07.26-03.33.34:222][624]LogTemp: Repeating last play command: Standalone Game
+[2021.07.26-03.33.34:272][624]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2021.07.26-03.33.35:981][624]LogSlate: Window 'Save Content' being destroyed
+[2021.07.26-03.33.36:006][624]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Platformer/Screens/Settings_Widget" FILE="../../../../../GitHub/comp313ass1v2/Platformer/Content/Platformer/Screens/Settings_Widget.uasset" SILENT=true
+[2021.07.26-03.33.36:020][624]LogSavePackage: Moving '../../../../../GitHub/comp313ass1v2/Platformer/Saved/Settings_WidgetAA5FB8F9473A5E5AD8C71F87A33BE6BC.tmp' to '../../../../../GitHub/comp313ass1v2/Platformer/Content/Platformer/Screens/Settings_Widget.uasset'
+[2021.07.26-03.33.36:045][625]AssetCheck: New page: Asset Save: Settings_Widget
+[2021.07.26-03.33.36:045][625]LogContentValidation: Display: Validating WidgetBlueprint /Game/Platformer/Screens/Settings_Widget.Settings_Widget
+[2021.07.26-03.34.44:136][138]BlueprintLog: New page: Compile Settings_Widget
+[2021.07.26-03.34.44:208][138]LogUObjectHash: Compacting FUObjectHashTables data took   3.91ms
+[2021.07.26-03.35.12:074][658]LogUObjectHash: Compacting FUObjectHashTables data took   3.47ms
+[2021.07.26-03.35.12:074][658]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Platformer/Maps/Main_Menu_Level' took 0.052
+[2021.07.26-03.35.12:075][658]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Platformer/Screens/Settings_Widget] ([1] browsable assets)...
+[2021.07.26-03.35.12:075][658]OBJ SavePackage: Finished generating thumbnails for package [/Game/Platformer/Screens/Settings_Widget]
+[2021.07.26-03.35.12:089][658]LogSavePackage: Moving '../../../../../GitHub/comp313ass1v2/Platformer/Saved/Settings_Widget_Auto15D0E704F428681F0D4B1BBA3BE54FE08.tmp' to '../../../../../GitHub/comp313ass1v2/Platformer/Saved/Autosaves/Game/Platformer/Screens/Settings_Widget_Auto1.uasset'
+[2021.07.26-03.35.12:406][658]LogFileHelpers: Auto-saving content packages took 0.332
+[2021.07.26-03.36.00:897][941]LogTemp: Repeating last play command: Standalone Game
+[2021.07.26-03.36.00:946][941]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2021.07.26-03.36.02:245][941]LogSlate: Window 'Save Content' being destroyed
+[2021.07.26-03.36.02:269][941]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Platformer/Screens/Settings_Widget" FILE="../../../../../GitHub/comp313ass1v2/Platformer/Content/Platformer/Screens/Settings_Widget.uasset" SILENT=true
+[2021.07.26-03.36.02:283][941]LogSavePackage: Moving '../../../../../GitHub/comp313ass1v2/Platformer/Saved/Settings_WidgetF9FDCB78415308C276902485AE5EB5A1.tmp' to '../../../../../GitHub/comp313ass1v2/Platformer/Content/Platformer/Screens/Settings_Widget.uasset'
+[2021.07.26-03.36.02:307][942]AssetCheck: New page: Asset Save: Settings_Widget
+[2021.07.26-03.36.02:307][942]LogContentValidation: Display: Validating WidgetBlueprint /Game/Platformer/Screens/Settings_Widget.Settings_Widget
+[2021.07.26-04.13.40:528][866]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.07.26-04.14.00:082][118]BlueprintLog: New page: Compile Main_Menu_Widget
+[2021.07.26-04.14.00:141][118]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2021.07.26-04.14.01:403][260]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Platformer/Screens/Main_Menu_Widget" FILE="../../../../../GitHub/comp313ass1v2/Platformer/Content/Platformer/Screens/Main_Menu_Widget.uasset" SILENT=true
+[2021.07.26-04.14.01:414][260]LogSavePackage: Moving '../../../../../GitHub/comp313ass1v2/Platformer/Saved/Main_Menu_WidgetE0B394C24CAE2FA768E4E19A17FB117C.tmp' to '../../../../../GitHub/comp313ass1v2/Platformer/Content/Platformer/Screens/Main_Menu_Widget.uasset'
+[2021.07.26-04.14.01:427][260]AssetCheck: New page: Asset Save: Main_Menu_Widget
+[2021.07.26-04.14.01:427][260]LogContentValidation: Display: Validating WidgetBlueprint /Game/Platformer/Screens/Main_Menu_Widget.Main_Menu_Widget
+[2021.07.26-04.14.16:705][ 26]LogTemp: Repeating last play command: Standalone Game
+[2021.07.26-04.14.16:757][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   3.72ms
+[2021.07.26-04.15.12:960][928]LogTemp: Repeating last play command: Standalone Game
+[2021.07.26-04.15.13:013][928]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2021.07.26-04.16.27:978][610]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2021.07.26-04.16.27:985][610]LogSavePackage: Moving '../../../../../GitHub/comp313ass1v2/Platformer/Saved/Main_Menu_Level70815A544205479811E74988A9F7FD15.tmp' to '../../../../../GitHub/comp313ass1v2/Platformer/Content/Platformer/Maps/Main_Menu_Level.umap'
+[2021.07.26-04.16.28:005][610]AssetCheck: New page: Asset Save: Main_Menu_Level
+[2021.07.26-04.16.28:005][610]LogContentValidation: Display: Validating World /Game/Platformer/Maps/Main_Menu_Level.Main_Menu_Level
+[2021.07.26-04.16.30:255][856]LogTemp: Repeating last play command: Standalone Game
+[2021.07.26-04.16.30:307][856]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2021.07.26-04.16.32:073][856]LogSlate: Window 'Save Content' being destroyed
+[2021.07.26-04.16.32:098][856]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Platformer/Screens/Settings_Widget" FILE="../../../../../GitHub/comp313ass1v2/Platformer/Content/Platformer/Screens/Settings_Widget.uasset" SILENT=true
+[2021.07.26-04.16.32:112][856]LogSavePackage: Moving '../../../../../GitHub/comp313ass1v2/Platformer/Saved/Settings_Widget214062464C3B074C37F259B75D01AF7B.tmp' to '../../../../../GitHub/comp313ass1v2/Platformer/Content/Platformer/Screens/Settings_Widget.uasset'
+[2021.07.26-04.16.32:137][857]AssetCheck: New page: Asset Save: Settings_Widget
+[2021.07.26-04.16.32:137][857]LogContentValidation: Display: Validating WidgetBlueprint /Game/Platformer/Screens/Settings_Widget.Settings_Widget
+[2021.07.26-04.17.19:117][847]BlueprintLog: New page: Compile Main_Menu_Widget
+[2021.07.26-04.17.19:167][847]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2021.07.26-04.17.27:031][740]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Platformer/Screens/Main_Menu_Widget" FILE="../../../../../GitHub/comp313ass1v2/Platformer/Content/Platformer/Screens/Main_Menu_Widget.uasset" SILENT=true
+[2021.07.26-04.17.27:042][740]LogSavePackage: Moving '../../../../../GitHub/comp313ass1v2/Platformer/Saved/Main_Menu_Widget242CC70D455CAD57AEFAAC9A0FEBEA8E.tmp' to '../../../../../GitHub/comp313ass1v2/Platformer/Content/Platformer/Screens/Main_Menu_Widget.uasset'
+[2021.07.26-04.17.27:054][740]AssetCheck: New page: Asset Save: Main_Menu_Widget
+[2021.07.26-04.17.27:054][740]LogContentValidation: Display: Validating WidgetBlueprint /Game/Platformer/Screens/Main_Menu_Widget.Main_Menu_Widget
+[2021.07.26-04.17.29:457][  6]LogTemp: Repeating last play command: Standalone Game
+[2021.07.26-04.17.29:510][  6]LogUObjectHash: Compacting FUObjectHashTables data took   3.22ms
+[2021.07.26-04.19.00:089][ 68]BlueprintLog: New page: Compile Main_Menu_Widget
+[2021.07.26-04.19.00:141][ 68]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2021.07.26-04.19.02:522][335]LogUObjectHash: Compacting FUObjectHashTables data took   3.37ms
+[2021.07.26-04.19.02:654][335]LogSavePackage: Moving '../../../../../GitHub/comp313ass1v2/Platformer/Saved/Main_Menu_Level4FA83614415DE189A5AC6EA40013ED74.tmp' to '../../../../../GitHub/comp313ass1v2/Platformer/Content/Platformer/Maps/Main_Menu_Level.umap'
+[2021.07.26-04.19.02:712][335]AssetCheck: New page: Asset Save: Main_Menu_Level
+[2021.07.26-04.19.02:712][335]LogContentValidation: Display: Validating World /Game/Platformer/Maps/Main_Menu_Level.Main_Menu_Level
+[2021.07.26-04.19.03:309][397]LogTemp: Repeating last play command: Standalone Game
+[2021.07.26-04.19.03:358][397]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2021.07.26-04.19.04:846][397]LogSlate: Window 'Save Content' being destroyed
+[2021.07.26-04.19.04:878][397]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Platformer/Screens/Main_Menu_Widget" FILE="../../../../../GitHub/comp313ass1v2/Platformer/Content/Platformer/Screens/Main_Menu_Widget.uasset" SILENT=true
+[2021.07.26-04.19.04:888][397]LogSavePackage: Moving '../../../../../GitHub/comp313ass1v2/Platformer/Saved/Main_Menu_Widget96EBBC8F4A572F7D5EC161A838B2DCD6.tmp' to '../../../../../GitHub/comp313ass1v2/Platformer/Content/Platformer/Screens/Main_Menu_Widget.uasset'
+[2021.07.26-04.19.04:911][398]AssetCheck: New page: Asset Save: Main_Menu_Widget
+[2021.07.26-04.19.04:911][398]LogContentValidation: Display: Validating WidgetBlueprint /Game/Platformer/Screens/Main_Menu_Widget.Main_Menu_Widget
+[2021.07.26-04.28.45:496][666]BlueprintLog: New page: Compile Settings_Widget
+[2021.07.26-04.28.45:559][666]LogUObjectHash: Compacting FUObjectHashTables data took   3.47ms
+[2021.07.26-04.28.46:147][730]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Platformer/Screens/Settings_Widget" FILE="../../../../../GitHub/comp313ass1v2/Platformer/Content/Platformer/Screens/Settings_Widget.uasset" SILENT=true
+[2021.07.26-04.28.46:163][730]LogSavePackage: Moving '../../../../../GitHub/comp313ass1v2/Platformer/Saved/Settings_WidgetEF8BF735465A5A0D99231B9D6FA164EE.tmp' to '../../../../../GitHub/comp313ass1v2/Platformer/Content/Platformer/Screens/Settings_Widget.uasset'
+[2021.07.26-04.28.46:178][730]AssetCheck: New page: Asset Save: Settings_Widget
+[2021.07.26-04.28.46:178][730]LogContentValidation: Display: Validating WidgetBlueprint /Game/Platformer/Screens/Settings_Widget.Settings_Widget
+[2021.07.26-04.29.29:948][149]LogContentBrowser: Deferred new asset file creation: NewSoundMix
+[2021.07.26-04.29.29:962][149]LogContentBrowser: Creating deferred item: NewSoundMix
+[2021.07.26-04.29.31:480][331]LogContentBrowser: Attempting asset rename: NewSoundMix -> NewSoundMix
+[2021.07.26-04.29.31:537][331]LogContentBrowser: End creating deferred item NewSoundMix
+[2021.07.26-04.29.50:981][748]LogContentBrowser: Attempting asset rename: NewSoundMix -> MasterSoundMix
+[2021.07.26-04.29.51:145][748]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Platformer/Screens/MasterSoundMix" FILE="../../../../../GitHub/comp313ass1v2/Platformer/Content/Platformer/Screens/MasterSoundMix.uasset" SILENT=true
+[2021.07.26-04.29.51:146][748]LogSavePackage: Moving '../../../../../GitHub/comp313ass1v2/Platformer/Saved/MasterSoundMix3F1FFCB645A9102CAC256BB96ADCF741.tmp' to '../../../../../GitHub/comp313ass1v2/Platformer/Content/Platformer/Screens/MasterSoundMix.uasset'
+[2021.07.26-04.29.51:293][748]LogUObjectHash: Compacting FUObjectHashTables data took   3.69ms
+[2021.07.26-04.29.51:349][748]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2021.07.26-04.29.51:391][748]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2021.07.26-04.29.51:422][748]AssetCheck: New page: Asset Save: MasterSoundMix
+[2021.07.26-04.29.51:422][748]LogContentValidation: Display: Validating SoundMix /Game/Platformer/Screens/MasterSoundMix.MasterSoundMix
+[2021.07.26-04.30.00:707][305]LogContentBrowser: Attempting asset rename: MasterSoundMix -> MasterSoundMix
+[2021.07.26-04.30.04:562][736]LogContentBrowser: Attempting asset rename: MasterSoundMix -> MasterSoundMix
+[2021.07.26-04.30.12:291][633]LogContentBrowser: Attempting asset rename: MasterSoundMix -> MasterSoundMixClass
+[2021.07.26-04.30.12:329][633]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Platformer/Screens/MasterSoundMixClass" FILE="../../../../../GitHub/comp313ass1v2/Platformer/Content/Platformer/Screens/MasterSoundMixClass.uasset" SILENT=true
+[2021.07.26-04.30.12:330][633]LogSavePackage: Moving '../../../../../GitHub/comp313ass1v2/Platformer/Saved/MasterSoundMixClass1E14582C42B8FE95AD2747848E089F10.tmp' to '../../../../../GitHub/comp313ass1v2/Platformer/Content/Platformer/Screens/MasterSoundMixClass.uasset'
+[2021.07.26-04.30.12:470][633]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2021.07.26-04.30.12:522][633]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2021.07.26-04.30.12:564][633]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2021.07.26-04.30.12:591][633]AssetCheck: New page: Asset Save: MasterSoundMixClass
+[2021.07.26-04.30.12:591][633]LogContentValidation: Display: Validating SoundMix /Game/Platformer/Screens/MasterSoundMixClass.MasterSoundMixClass
+[2021.07.26-04.30.21:911][881]LogAssetEditorSubsystem: Opening Asset editor for SoundMix /Game/Platformer/Screens/MasterSoundMixClass.MasterSoundMixClass
+[2021.07.26-04.30.41:815][284]LogSlate: Window 'Save Asset As' being destroyed
+[2021.07.26-04.30.51:294][830]LogSlate: Window 'Save Asset As' being destroyed
+[2021.07.26-04.30.52:823][830]LogSlate: Window 'Message' being destroyed
+[2021.07.26-04.30.52:828][830]Message dialog closed, result: No, title: Message, text: An object [MasterSoundMixClass] of class [SoundMix] already exists in file [/Game/Platformer/Screens/MasterSoundMixClass].  Do you want to replace the existing object?  If you click 'Yes', the existing object will be deleted.  Otherwise, click 'No' and choose a unique name for your new object.
+[2021.07.26-04.31.18:384][395]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2021.07.26-04.31.18:385][395]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Platformer/Maps/Main_Menu_Level' took 0.088
+[2021.07.26-04.31.18:385][395]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Platformer/Screens/MasterSoundMixClass] ([1] browsable assets)...
+[2021.07.26-04.31.18:385][395]OBJ SavePackage: Finished generating thumbnails for package [/Game/Platformer/Screens/MasterSoundMixClass]
+[2021.07.26-04.31.18:386][395]LogSavePackage: Moving '../../../../../GitHub/comp313ass1v2/Platformer/Saved/MasterSoundMixClass_Auto2D16EAE6044AF3700FDD5928EB8DB9A31.tmp' to '../../../../../GitHub/comp313ass1v2/Platformer/Saved/Autosaves/Game/Platformer/Screens/MasterSoundMixClass_Auto2.uasset'
+[2021.07.26-04.31.18:387][395]LogFileHelpers: Auto-saving content packages took 0.002
+[2021.07.26-04.32.07:110][415]LogSlate: Window 'Save Asset As' being destroyed
+[2021.07.26-04.32.25:602][381]LogContentBrowser: Deferred new asset file creation: NewSoundClass
+[2021.07.26-04.32.25:618][381]LogContentBrowser: Creating deferred item: NewSoundClass
+[2021.07.26-04.32.28:826][765]LogContentBrowser: Attempting asset rename: NewSoundClass -> Master
+[2021.07.26-04.32.28:826][765]LogContentBrowser: End creating deferred item NewSoundClass
+[2021.07.26-04.32.30:477][954]LogAssetEditorSubsystem: Opening Asset editor for SoundClass /Game/Platformer/Screens/Master.Master
+[2021.07.26-04.35.43:293][993]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2021.07.26-04.35.44:986][993]LogSlate: Window 'Delete Assets' being destroyed
+[2021.07.26-04.35.45:042][993]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Platformer/Screens/Master.Master
+[2021.07.26-04.35.46:183][993]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2021.07.26-04.35.57:070][243]LogAssetEditorSubsystem: Opening Asset editor for SoundMix /Game/Platformer/Screens/MasterSoundMixClass.MasterSoundMixClass
+[2021.07.26-04.36.53:320][166]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Platformer/Screens/MasterSoundMixClass" FILE="../../../../../GitHub/comp313ass1v2/Platformer/Content/Platformer/Screens/MasterSoundMixClass.uasset" SILENT=true
+[2021.07.26-04.36.53:321][166]LogSavePackage: Moving '../../../../../GitHub/comp313ass1v2/Platformer/Saved/MasterSoundMixClassB76822AB4642819F38CC69A4CE93A804.tmp' to '../../../../../GitHub/comp313ass1v2/Platformer/Content/Platformer/Screens/MasterSoundMixClass.uasset'
+[2021.07.26-04.36.53:333][166]AssetCheck: New page: Asset Save: MasterSoundMixClass
+[2021.07.26-04.36.53:333][166]LogContentValidation: Display: Validating SoundMix /Game/Platformer/Screens/MasterSoundMixClass.MasterSoundMixClass
+[2021.07.26-04.53.24:224][170]LogFactory: FactoryCreateFile: FileMediaSource with WmfFileMediaSourceFactory (0 0 C:\Users\User\Downloads\Music\skarbuniek-lifestyles-v1-4638.mp3)
+[2021.07.26-04.53.27:900][443]LogSavePackage: Moving '../../../../../GitHub/comp313ass1v2/Platformer/Saved/skarbuniek-lifestyles-v1-4638990791974024D78537EBAB8A4E3DE667.tmp' to '../../../../../GitHub/comp313ass1v2/Platformer/Content/Platformer/Screens/skarbuniek-lifestyles-v1-4638.uasset'
+[2021.07.26-04.53.27:914][443]AssetCheck: New page: Asset Save: skarbuniek-lifestyles-v1-4638
+[2021.07.26-04.53.27:914][443]LogContentValidation: Display: Validating FileMediaSource /Game/Platformer/Screens/skarbuniek-lifestyles-v1-4638.skarbuniek-lifestyles-v1-4638
+[2021.07.26-04.53.30:598][755]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Platformer/Screens/Settings_Widget" FILE="../../../../../GitHub/comp313ass1v2/Platformer/Content/Platformer/Screens/Settings_Widget.uasset" SILENT=true
+[2021.07.26-04.53.30:614][755]LogSavePackage: Moving '../../../../../GitHub/comp313ass1v2/Platformer/Saved/Settings_WidgetF7A416DD42430B80FBEF8DB1861778BE.tmp' to '../../../../../GitHub/comp313ass1v2/Platformer/Content/Platformer/Screens/Settings_Widget.uasset'
+[2021.07.26-04.53.30:625][755]AssetCheck: New page: Asset Save: Settings_Widget
+[2021.07.26-04.53.30:625][755]LogContentValidation: Display: Validating WidgetBlueprint /Game/Platformer/Screens/Settings_Widget.Settings_Widget
+[2021.07.26-04.53.37:404][498]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2021.07.26-04.53.37:413][498]LogSavePackage: Moving '../../../../../GitHub/comp313ass1v2/Platformer/Saved/Main_Menu_LevelCF813D5C4CC05085A6169E90FAD2AF57.tmp' to '../../../../../GitHub/comp313ass1v2/Platformer/Content/Platformer/Maps/Main_Menu_Level.umap'
+[2021.07.26-04.53.37:435][498]AssetCheck: New page: Asset Save: Main_Menu_Level
+[2021.07.26-04.53.37:435][498]LogContentValidation: Display: Validating World /Game/Platformer/Maps/Main_Menu_Level.Main_Menu_Level
+[2021.07.26-04.53.38:240][586]LogTemp: Repeating last play command: Standalone Game
+[2021.07.26-04.53.38:291][586]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2021.07.26-04.54.33:131][555]LogAssetEditorSubsystem: Opening Asset editor for FileMediaSource /Game/Platformer/Screens/skarbuniek-lifestyles-v1-4638.skarbuniek-lifestyles-v1-4638
+[2021.07.26-04.57.25:423][132]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2021.07.26-04.57.27:807][132]LogSlate: Window 'Delete Assets' being destroyed
+[2021.07.26-04.57.27:924][132]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2021.07.26-04.57.27:975][132]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2021.07.26-04.57.28:017][132]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2021.07.26-04.57.33:386][321]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\User\Downloads\Music\skarbuniek-lifestyles-v1-4638.wav)
+[2021.07.26-04.57.34:918][398]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave skarbuniek-lifestyles-v1-4638...
+[2021.07.26-04.57.34:921][398]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Platformer/Screens/skarbuniek-lifestyles-v1-4638.skarbuniek-lifestyles-v1-4638 will be modified from 40 to 40.
+[2021.07.26-04.57.36:659][398]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 16713216 while cooking SoundWave /Game/Platformer/Screens/skarbuniek-lifestyles-v1-4638.skarbuniek-lifestyles-v1-4638.
+[2021.07.26-04.57.38:445][601]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/Platformer/Screens/skarbuniek-lifestyles-v1-4638.skarbuniek-lifestyles-v1-4638
+[2021.07.26-04.57.42:733][ 78]LogSavePackage: Moving '../../../../../GitHub/comp313ass1v2/Platformer/Saved/skarbuniek-lifestyles-v1-46388BA0457C4EF8F9A4C6F91C95412A3074.tmp' to '../../../../../GitHub/comp313ass1v2/Platformer/Content/Platformer/Screens/skarbuniek-lifestyles-v1-4638.uasset'
+[2021.07.26-04.57.42:748][ 78]AssetCheck: New page: Asset Save: skarbuniek-lifestyles-v1-4638
+[2021.07.26-04.57.42:748][ 78]LogContentValidation: Display: Validating SoundWave /Game/Platformer/Screens/skarbuniek-lifestyles-v1-4638.skarbuniek-lifestyles-v1-4638
+[2021.07.26-04.57.46:955][558]LogTemp: Repeating last play command: Standalone Game
+[2021.07.26-04.57.47:005][558]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2021.07.26-05.02.07:162][314]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave skarbuniek-lifestyles-v1-4638...
+[2021.07.26-05.02.07:166][314]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Platformer/Screens/skarbuniek-lifestyles-v1-4638.skarbuniek-lifestyles-v1-4638 will be modified from 40 to 40.
+[2021.07.26-05.02.31:993][ 75]LogSavePackage: Moving '../../../../../GitHub/comp313ass1v2/Platformer/Saved/skarbuniek-lifestyles-v1-463842895EEB477BD2B14B7D52B0FD12232C.tmp' to '../../../../../GitHub/comp313ass1v2/Platformer/Content/Platformer/Screens/skarbuniek-lifestyles-v1-4638.uasset'
+[2021.07.26-05.02.32:009][ 75]AssetCheck: New page: Asset Save: skarbuniek-lifestyles-v1-4638
+[2021.07.26-05.02.32:009][ 75]LogContentValidation: Display: Validating SoundWave /Game/Platformer/Screens/skarbuniek-lifestyles-v1-4638.skarbuniek-lifestyles-v1-4638
+[2021.07.26-05.12.14:729][436]LogEditorViewport: Clicking Background
+[2021.07.26-05.12.19:357][904]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Platformer/Maps/Main_Menu_Level.Main_Menu_Level:PersistentLevel.Main_Menu_Level
+[2021.07.26-05.13.20:859][ 62]BlueprintLog: New page: Compile Main_Menu_Level
+[2021.07.26-05.13.20:941][ 62]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2021.07.26-05.13.21:538][104]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2021.07.26-05.13.21:543][104]LogSavePackage: Moving '../../../../../GitHub/comp313ass1v2/Platformer/Saved/Main_Menu_LevelF3840CF14B1666E4C1925EB41A641B14.tmp' to '../../../../../GitHub/comp313ass1v2/Platformer/Content/Platformer/Maps/Main_Menu_Level.umap'
+[2021.07.26-05.13.21:555][104]LogFileHelpers: Saving map 'Main_Menu_Level' took 0.061
+[2021.07.26-05.13.21:571][104]AssetCheck: New page: Asset Save: Main_Menu_Level
+[2021.07.26-05.13.21:571][104]LogContentValidation: Display: Validating World /Game/Platformer/Maps/Main_Menu_Level.Main_Menu_Level
+[2021.07.26-05.13.27:496][483]LogSlate: Window 'Main_Menu_Level' being destroyed
+[2021.07.26-05.13.29:184][668]LogTemp: Repeating last play command: Standalone Game
+[2021.07.26-05.13.29:233][668]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2021.07.26-05.14.44:787][853]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2021.07.26-05.14.44:806][853]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Platformer/Maps/Settings_Menu_Level.Settings_Menu_Level
+[2021.07.26-05.14.44:806][853]Cmd: MAP LOAD FILE="../../../../../GitHub/comp313ass1v2/Platformer/Content/Platformer/Maps/Settings_Menu_Level.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.07.26-05.14.44:806][853]LightingResults: New page: Lighting Build
+[2021.07.26-05.14.44:806][853]LoadErrors: New page: Loading map: Settings_Menu_Level.umap
+[2021.07.26-05.14.44:815][853]LogWorld: UWorld::CleanupWorld for World_42, bSessionEnded=true, bCleanupResources=true
+[2021.07.26-05.14.44:815][853]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.26-05.14.44:860][853]LogWorld: UWorld::CleanupWorld for Main_Menu_Level, bSessionEnded=true, bCleanupResources=true
+[2021.07.26-05.14.44:861][853]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.26-05.14.44:861][853]MapCheck: New page: Map Check
+[2021.07.26-05.14.44:861][853]LightingResults: New page: Lighting Build
+[2021.07.26-05.14.44:902][853]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.07.26-05.14.44:908][853]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2021.07.26-05.14.44:909][853]LogAudio: Display: Audio Device (ID: 1) registered with world 'Settings_Menu_Level'.
+[2021.07.26-05.14.44:992][853]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.07.26-05.14.44:992][853]LogAIModule: Creating AISystem for world Settings_Menu_Level
+[2021.07.26-05.14.45:037][853]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2021.07.26-05.14.45:048][853]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.07.26-05.14.45:048][853]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.081ms to complete.
+[2021.07.26-05.14.45:048][853]LogFileHelpers: Loading map 'Settings_Menu_Level' took 0.242
+[2021.07.26-05.14.52:554][623]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Platformer/Maps/Settings_Menu_Level.Settings_Menu_Level:PersistentLevel.Settings_Menu_Level
+[2021.07.26-05.15.15:632][ 88]LogSlate: Window 'Settings_Menu_Level' being destroyed
+[2021.07.26-05.15.20:802][663]BlueprintLog: New page: Compile Settings_Menu_Level
+[2021.07.26-05.15.20:873][663]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2021.07.26-05.15.35:504][320]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2021.07.26-05.15.35:510][320]LogSavePackage: Moving '../../../../../GitHub/comp313ass1v2/Platformer/Saved/Settings_Menu_LevelA8143E534A3171D7910602875E3286BC.tmp' to '../../../../../GitHub/comp313ass1v2/Platformer/Content/Platformer/Maps/Settings_Menu_Level.umap'
+[2021.07.26-05.15.35:531][320]AssetCheck: New page: Asset Save: Settings_Menu_Level
+[2021.07.26-05.15.35:531][320]LogContentValidation: Display: Validating World /Game/Platformer/Maps/Settings_Menu_Level.Settings_Menu_Level
+[2021.07.26-05.15.39:170][729]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2021.07.26-05.15.39:196][729]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Platformer/Maps/Main_Menu_Level.Main_Menu_Level
+[2021.07.26-05.15.39:196][729]Cmd: MAP LOAD FILE="../../../../../GitHub/comp313ass1v2/Platformer/Content/Platformer/Maps/Main_Menu_Level.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.07.26-05.15.39:197][729]LightingResults: New page: Lighting Build
+[2021.07.26-05.15.39:197][729]LoadErrors: New page: Loading map: Main_Menu_Level.umap
+[2021.07.26-05.15.39:206][729]LogWorld: UWorld::CleanupWorld for World_43, bSessionEnded=true, bCleanupResources=true
+[2021.07.26-05.15.39:206][729]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.26-05.15.39:249][729]LogWorld: UWorld::CleanupWorld for Settings_Menu_Level, bSessionEnded=true, bCleanupResources=true
+[2021.07.26-05.15.39:249][729]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.26-05.15.39:249][729]MapCheck: New page: Map Check
+[2021.07.26-05.15.39:249][729]LightingResults: New page: Lighting Build
+[2021.07.26-05.15.39:290][729]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.07.26-05.15.39:296][729]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2021.07.26-05.15.39:296][729]LogAudio: Display: Audio Device (ID: 1) registered with world 'Main_Menu_Level'.
+[2021.07.26-05.15.39:366][729]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.07.26-05.15.39:366][729]LogAIModule: Creating AISystem for world Main_Menu_Level
+[2021.07.26-05.15.39:411][729]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2021.07.26-05.15.39:421][729]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.07.26-05.15.39:422][729]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.108ms to complete.
+[2021.07.26-05.15.39:422][729]LogFileHelpers: Loading map 'Main_Menu_Level' took 0.225
+[2021.07.26-05.15.40:589][857]LogTemp: Repeating last play command: Standalone Game
+[2021.07.26-05.15.40:637][857]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2021.07.26-05.17.24:136][115]LogSlate: Window 'Color Picker' being destroyed
+[2021.07.26-05.17.33:118][141]LogSlate: Window 'Color Picker' being destroyed
+[2021.07.26-05.20.53:270][988]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Edit Slider Bar Color entirely.
+[2021.07.26-05.20.54:607][131]BlueprintLog: New page: Compile Settings_Widget
+[2021.07.26-05.20.54:664][131]LogUObjectHash: Compacting FUObjectHashTables data took   4.48ms
+[2021.07.26-05.20.55:162][181]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Platformer/Screens/Settings_Widget" FILE="../../../../../GitHub/comp313ass1v2/Platformer/Content/Platformer/Screens/Settings_Widget.uasset" SILENT=true
+[2021.07.26-05.20.55:178][181]LogSavePackage: Moving '../../../../../GitHub/comp313ass1v2/Platformer/Saved/Settings_WidgetF2C0DBBA4DB2403D3DD4188BD7758AA2.tmp' to '../../../../../GitHub/comp313ass1v2/Platformer/Content/Platformer/Screens/Settings_Widget.uasset'
+[2021.07.26-05.20.55:191][181]AssetCheck: New page: Asset Save: Settings_Widget
+[2021.07.26-05.20.55:191][181]LogContentValidation: Display: Validating WidgetBlueprint /Game/Platformer/Screens/Settings_Widget.Settings_Widget
+[2021.07.26-05.20.58:028][485]LogTemp: Repeating last play command: Standalone Game
+[2021.07.26-05.20.58:081][485]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2021.07.26-05.21.43:439][262]BlueprintLog: New page: Compile Settings_Widget
+[2021.07.26-05.21.43:492][262]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2021.07.26-05.21.46:560][613]LogTemp: Repeating last play command: Standalone Game
+[2021.07.26-05.21.46:612][613]LogUObjectHash: Compacting FUObjectHashTables data took   3.74ms
+[2021.07.26-05.21.48:973][613]LogSlate: Window 'Save Content' being destroyed
+[2021.07.26-05.21.48:994][613]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Platformer/Screens/Settings_Widget" FILE="../../../../../GitHub/comp313ass1v2/Platformer/Content/Platformer/Screens/Settings_Widget.uasset" SILENT=true
+[2021.07.26-05.21.49:010][613]LogSavePackage: Moving '../../../../../GitHub/comp313ass1v2/Platformer/Saved/Settings_WidgetBB039D6A4F61FE1972BE88968A90DA54.tmp' to '../../../../../GitHub/comp313ass1v2/Platformer/Content/Platformer/Screens/Settings_Widget.uasset'
+[2021.07.26-05.21.49:034][614]AssetCheck: New page: Asset Save: Settings_Widget
+[2021.07.26-05.21.49:034][614]LogContentValidation: Display: Validating WidgetBlueprint /Game/Platformer/Screens/Settings_Widget.Settings_Widget
+[2021.07.26-05.23.36:098][586]LogEditorTransaction: Undo Drag and Drop Widget
+[2021.07.26-05.25.45:090][130]BlueprintLog: New page: Compile Main_Menu_Widget
+[2021.07.26-05.25.45:147][130]LogUObjectHash: Compacting FUObjectHashTables data took   4.06ms
+[2021.07.26-05.25.46:053][224]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Platformer/Screens/Main_Menu_Widget" FILE="../../../../../GitHub/comp313ass1v2/Platformer/Content/Platformer/Screens/Main_Menu_Widget.uasset" SILENT=true
+[2021.07.26-05.25.46:067][224]LogSavePackage: Moving '../../../../../GitHub/comp313ass1v2/Platformer/Saved/Main_Menu_Widget3C8AD75E4B10384ADA4243ACD906A8A5.tmp' to '../../../../../GitHub/comp313ass1v2/Platformer/Content/Platformer/Screens/Main_Menu_Widget.uasset'
+[2021.07.26-05.25.46:082][224]AssetCheck: New page: Asset Save: Main_Menu_Widget
+[2021.07.26-05.25.46:082][224]LogContentValidation: Display: Validating WidgetBlueprint /Game/Platformer/Screens/Main_Menu_Widget.Main_Menu_Widget
+[2021.07.26-05.26.20:091][780]LogSlate: Window 'Color Picker' being destroyed
+[2021.07.26-05.26.59:616][402]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2021.07.26-05.27.00:796][402]LogSlate: Window 'Save Content' being destroyed
+[2021.07.26-05.27.00:817][402]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Platformer/Screens/Main_Menu_Widget" FILE="../../../../../GitHub/comp313ass1v2/Platformer/Content/Platformer/Screens/Main_Menu_Widget.uasset" SILENT=true
+[2021.07.26-05.27.00:830][402]LogSavePackage: Moving '../../../../../GitHub/comp313ass1v2/Platformer/Saved/Main_Menu_WidgetE7F6489A4F720D39E576FABEF0C0967F.tmp' to '../../../../../GitHub/comp313ass1v2/Platformer/Content/Platformer/Screens/Main_Menu_Widget.uasset'
+[2021.07.26-05.27.00:891][402]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Platformer/Maps/Level_00.Level_00
+[2021.07.26-05.27.00:891][402]Cmd: MAP LOAD FILE="../../../../../GitHub/comp313ass1v2/Platformer/Content/Platformer/Maps/Level_00.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.07.26-05.27.00:891][402]LightingResults: New page: Lighting Build
+[2021.07.26-05.27.00:892][402]LoadErrors: New page: Loading map: Level_00.umap
+[2021.07.26-05.27.00:893][402]LogWorld: UWorld::CleanupWorld for Main_Menu_Level, bSessionEnded=true, bCleanupResources=true
+[2021.07.26-05.27.00:893][402]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.26-05.27.00:893][402]MapCheck: New page: Map Check
+[2021.07.26-05.27.00:893][402]LightingResults: New page: Lighting Build
+[2021.07.26-05.27.00:937][402]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.07.26-05.27.00:940][402]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2021.07.26-05.27.00:941][402]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level_00'.
+[2021.07.26-05.27.01:045][402]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.07.26-05.27.01:045][402]LogAIModule: Creating AISystem for world Level_00
+[2021.07.26-05.27.01:093][402]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2021.07.26-05.27.01:117][402]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.07.26-05.27.01:117][402]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.119ms to complete.
+[2021.07.26-05.27.01:117][402]LogFileHelpers: Loading map 'Level_00' took 0.226
+[2021.07.26-05.27.01:141][402]AssetCheck: New page: Asset Save: Main_Menu_Widget
+[2021.07.26-05.27.01:141][402]LogContentValidation: Display: Validating WidgetBlueprint /Game/Platformer/Screens/Main_Menu_Widget.Main_Menu_Widget
+[2021.07.26-05.27.05:032][802]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Platformer/Maps/Level_00.Level_00:PersistentLevel.Level_00
+[2021.07.26-05.27.32:781][333]BlueprintLog: New page: Compile Level_00
+[2021.07.26-05.27.32:839][333]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2021.07.26-05.27.36:561][619]LogSlate: Window 'Level_00' being destroyed
+[2021.07.26-05.27.46:854][723]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2021.07.26-05.27.47:838][723]LogSlate: Window 'Save Content' being destroyed
+[2021.07.26-05.27.47:866][723]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Platformer/Maps/Level_00" FILE="../../../../../GitHub/comp313ass1v2/Platformer/Content/Platformer/Maps/Level_00.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.07.26-05.27.47:911][723]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2021.07.26-05.27.47:963][723]LogSavePackage: Moving '../../../../../GitHub/comp313ass1v2/Platformer/Saved/Level_00A33C40A64E5916127C529B8F0EA14FB7.tmp' to '../../../../../GitHub/comp313ass1v2/Platformer/Content/Platformer/Maps/Level_00.umap'
+[2021.07.26-05.27.47:974][723]LogFileHelpers: Saving map 'Level_00' took 0.107
+[2021.07.26-05.27.48:008][723]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Platformer/Maps/Main_Menu_Level.Main_Menu_Level
+[2021.07.26-05.27.48:008][723]Cmd: MAP LOAD FILE="../../../../../GitHub/comp313ass1v2/Platformer/Content/Platformer/Maps/Main_Menu_Level.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.07.26-05.27.48:008][723]LightingResults: New page: Lighting Build
+[2021.07.26-05.27.48:008][723]LoadErrors: New page: Loading map: Main_Menu_Level.umap
+[2021.07.26-05.27.48:018][723]LogWorld: UWorld::CleanupWorld for World_48, bSessionEnded=true, bCleanupResources=true
+[2021.07.26-05.27.48:018][723]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.26-05.27.48:062][723]LogWorld: UWorld::CleanupWorld for Level_00, bSessionEnded=true, bCleanupResources=true
+[2021.07.26-05.27.48:062][723]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.26-05.27.48:062][723]MapCheck: New page: Map Check
+[2021.07.26-05.27.48:062][723]LightingResults: New page: Lighting Build
+[2021.07.26-05.27.48:104][723]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.07.26-05.27.48:113][723]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2021.07.26-05.27.48:113][723]LogAudio: Display: Audio Device (ID: 1) registered with world 'Main_Menu_Level'.
+[2021.07.26-05.27.48:185][723]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.07.26-05.27.48:185][723]LogAIModule: Creating AISystem for world Main_Menu_Level
+[2021.07.26-05.27.48:231][723]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2021.07.26-05.27.48:243][723]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.07.26-05.27.48:244][723]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.088ms to complete.
+[2021.07.26-05.27.48:244][723]LogFileHelpers: Loading map 'Main_Menu_Level' took 0.236
+[2021.07.26-05.27.48:270][723]AssetCheck: New page: Asset Save: Level_00
+[2021.07.26-05.27.48:270][723]LogContentValidation: Display: Validating World /Game/Platformer/Maps/Level_00.Level_00
+[2021.07.26-05.27.49:909][899]LogTemp: Repeating last play command: Standalone Game
+[2021.07.26-05.27.49:960][899]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2021.07.26-05.33.15:569][790]BlueprintLog: New page: Compile BP_Enemy
+[2021.07.26-05.33.15:663][790]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2021.07.26-05.33.17:325][951]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Platformer/Blueprints/BP_Enemy" FILE="../../../../../GitHub/comp313ass1v2/Platformer/Content/Platformer/Blueprints/BP_Enemy.uasset" SILENT=true
+[2021.07.26-05.33.17:370][951]LogSavePackage: Moving '../../../../../GitHub/comp313ass1v2/Platformer/Saved/BP_EnemyDF51F885436A64D6A1906BA623088068.tmp' to '../../../../../GitHub/comp313ass1v2/Platformer/Content/Platformer/Blueprints/BP_Enemy.uasset'
+[2021.07.26-05.33.17:383][951]AssetCheck: New page: Asset Save: BP_Enemy
+[2021.07.26-05.33.17:383][951]LogContentValidation: Display: Validating Blueprint /Game/Platformer/Blueprints/BP_Enemy.BP_Enemy
+[2021.07.26-05.33.20:545][316]LogTemp: Repeating last play command: Standalone Game
+[2021.07.26-05.33.20:597][316]LogUObjectHash: Compacting FUObjectHashTables data took   4.09ms
+[2021.07.26-05.33.22:058][316]LogSlate: Window 'Save Content' being destroyed
+[2021.07.26-05.33.22:093][316]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Platformer/Maps/Level_00" FILE="../../../../../GitHub/comp313ass1v2/Platformer/Content/Platformer/Maps/Level_00.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.07.26-05.33.22:147][316]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2021.07.26-05.33.22:199][316]LogSavePackage: Moving '../../../../../GitHub/comp313ass1v2/Platformer/Saved/Level_009E4202754DD9897F1BD75DA96FB45277.tmp' to '../../../../../GitHub/comp313ass1v2/Platformer/Content/Platformer/Maps/Level_00.umap'
+[2021.07.26-05.33.22:206][316]LogFileHelpers: Saving map 'Level_00' took 0.113
+[2021.07.26-05.33.22:265][317]AssetCheck: New page: Asset Save: Level_00
+[2021.07.26-05.33.22:265][317]LogContentValidation: Display: Validating World /Game/Platformer/Maps/Level_00.Level_00
+[2021.07.26-05.34.14:591][222]LogTemp: Repeating last play command: Standalone Game
+[2021.07.26-05.34.14:645][222]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2021.07.26-05.35.24:296][240]LogEditorTransaction: Undo Drag and Drop Widget
+[2021.07.26-05.35.32:583][162]BlueprintLog: New page: Compile Game_Won_Widget
+[2021.07.26-05.35.32:666][162]LogUObjectHash: Compacting FUObjectHashTables data took   4.19ms
+[2021.07.26-05.35.33:155][213]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Platformer/Screens/Game_Won_Widget" FILE="../../../../../GitHub/comp313ass1v2/Platformer/Content/Platformer/Screens/Game_Won_Widget.uasset" SILENT=true
+[2021.07.26-05.35.33:164][213]LogSavePackage: Moving '../../../../../GitHub/comp313ass1v2/Platformer/Saved/Game_Won_Widget9B351CA64C10DC70ED27C5B9EB3F4A4D.tmp' to '../../../../../GitHub/comp313ass1v2/Platformer/Content/Platformer/Screens/Game_Won_Widget.uasset'
+[2021.07.26-05.35.33:175][213]AssetCheck: New page: Asset Save: Game_Won_Widget
+[2021.07.26-05.35.33:175][213]LogContentValidation: Display: Validating WidgetBlueprint /Game/Platformer/Screens/Game_Won_Widget.Game_Won_Widget
+[2021.07.26-05.35.48:452][  7]LogTemp: Repeating last play command: Standalone Game
+[2021.07.26-05.35.48:507][  7]LogUObjectHash: Compacting FUObjectHashTables data took   3.66ms
+[2021.07.26-05.35.50:402][  7]LogSlate: Window 'Save Content' being destroyed
+[2021.07.26-05.35.50:420][  7]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Platformer/Maps/Level_00" FILE="../../../../../GitHub/comp313ass1v2/Platformer/Content/Platformer/Maps/Level_00.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.07.26-05.35.50:472][  7]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2021.07.26-05.35.50:523][  7]LogSavePackage: Moving '../../../../../GitHub/comp313ass1v2/Platformer/Saved/Level_00F077CE7B4A76D11B2E33C4953612DA81.tmp' to '../../../../../GitHub/comp313ass1v2/Platformer/Content/Platformer/Maps/Level_00.umap'
+[2021.07.26-05.35.50:530][  7]LogFileHelpers: Saving map 'Level_00' took 0.111
+[2021.07.26-05.35.50:530][  7]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Platformer/Screens/Main_Menu_Widget" FILE="../../../../../GitHub/comp313ass1v2/Platformer/Content/Platformer/Screens/Main_Menu_Widget.uasset" SILENT=true
+[2021.07.26-05.35.50:543][  7]LogSavePackage: Moving '../../../../../GitHub/comp313ass1v2/Platformer/Saved/Main_Menu_Widget1BAC96EB47E1758AF5675A8359D28496.tmp' to '../../../../../GitHub/comp313ass1v2/Platformer/Content/Platformer/Screens/Main_Menu_Widget.uasset'
+[2021.07.26-05.35.50:582][  8]AssetCheck: New page: Asset Save: multiple assets
+[2021.07.26-05.35.50:583][  8]LogContentValidation: Display: Validating WidgetBlueprint /Game/Platformer/Screens/Main_Menu_Widget.Main_Menu_Widget
+[2021.07.26-05.35.50:583][  8]LogContentValidation: Display: Validating World /Game/Platformer/Maps/Level_00.Level_00
+[2021.07.26-05.36.13:714][876]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
