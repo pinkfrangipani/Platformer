@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\GitHub\\comp313ass1v2\\Platformer\\Source\\Platformer\\Platformer.Build.cs",
+		"D:\\GitHub\\comp313ass1v2\\Platformer\\Source\\Platformer.Target.cs",
+		"D:\\GitHub\\comp313ass1v2\\Platformer\\Source\\PlatformerEditor.Target.cs"
+	],
+	"EngineVersion": "4.26.2"
+}

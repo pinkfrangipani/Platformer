@@ -1,0 +1,3 @@
+D:\GitHub\comp313ass1v2\Platformer\Intermediate\Build\Win64\UE4Editor\Development\Platformer\Definitions.Platformer.h
+D:\unrealengine\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\unrealengine\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h

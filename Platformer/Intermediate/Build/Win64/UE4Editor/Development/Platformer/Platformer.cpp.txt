@@ -1,0 +1,2 @@
+D:\GitHub\comp313ass1v2\Platformer\Intermediate\Build\Win64\UE4Editor\Development\Platformer\Definitions.Platformer.h
+D:\GitHub\comp313ass1v2\Platformer\Source\Platformer\Platformer.h

@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Platformer.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\GitHub\comp313ass1v2\Platformer\Intermediate\Build\Win64\PlatformerEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\GitHub\comp313ass1v2\Platformer\Intermediate\Build\Win64\UE4Editor\Development\Platformer\FloatingActor.cpp.obj"
+"D:\GitHub\comp313ass1v2\Platformer\Intermediate\Build\Win64\UE4Editor\Development\Platformer\Platformer.cpp.obj"
+"D:\GitHub\comp313ass1v2\Platformer\Intermediate\Build\Win64\UE4Editor\Development\Platformer\FloatingActor.gen.cpp.obj"
+"D:\GitHub\comp313ass1v2\Platformer\Intermediate\Build\Win64\UE4Editor\Development\Platformer\Platformer.init.gen.cpp.obj"
+"D:\GitHub\comp313ass1v2\Platformer\Intermediate\Build\Win64\UE4Editor\Development\Platformer\Default.rc2.res"
+/OUT:"D:\GitHub\comp313ass1v2\Platformer\Intermediate\Build\Win64\UE4Editor\Development\Platformer\UE4Editor-Platformer.lib"
+/INCLUDE:IMPLEMENT_MODULE_Platformer

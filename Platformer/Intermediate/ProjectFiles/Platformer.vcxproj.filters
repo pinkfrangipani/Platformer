@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Platformer.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{9673B894-912E-4AA4-AD2B-C307883FBD82}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Platformer.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\PlatformerEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{4BE882EA-0D6F-433F-8712-4CF09839D58F}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Platformer">
+      <UniqueIdentifier>{61A8621A-228D-45C9-8FB2-BE0AD5494703}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Platformer\FloatingActor.cpp">
+      <Filter>Source\Platformer</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Platformer\FloatingActor.h">
+      <Filter>Source\Platformer</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\Platformer\Platformer.Build.cs">
+      <Filter>Source\Platformer</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Platformer\Platformer.cpp">
+      <Filter>Source\Platformer</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Platformer\Platformer.h">
+      <Filter>Source\Platformer</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

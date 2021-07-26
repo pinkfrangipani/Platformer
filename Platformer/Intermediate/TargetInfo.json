@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Platformer",
+			"Path": "D:\\GitHub\\comp313ass1v2\\Platformer\\Source\\Platformer.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "PlatformerEditor",
+			"Path": "D:\\GitHub\\comp313ass1v2\\Platformer\\Source\\PlatformerEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
