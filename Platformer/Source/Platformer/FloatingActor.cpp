@@ -25,6 +25,11 @@ AFloatingActor::AFloatingActor()
 void AFloatingActor::BeginPlay()
 {
 	Super::BeginPlay();
+
+	if (GEngine) 
+	{
+		GEngine->AddOnScreenDebugMessage(-1, 10.f, FColor::Purple, FString("WASD to move, Left click to shoot"));
+	}
 	
 }
 
@@ -36,8 +41,8 @@ void AFloatingActor::Tick(float DeltaTime)
 	FRotator NewRotation = GetActorRotation();
 	float RunningTime = GetGameTimeSinceCreation();
 	float DeltaHeight = (FMath::Sin(RunningTime + DeltaTime) - FMath::Sin(RunningTime));
-	NewLocation.Z += DeltaHeight * 20.0f;       //Scale our height by a factor of 20
-	float DeltaRotation = DeltaTime * 20.0f;    //Rotate by 20 degrees per second
+	NewLocation.Z += DeltaHeight * 600.0f;       //Scale our height by a factor of 600
+	float DeltaRotation = DeltaTime * 0.0f;    //Rotate by no degrees per second
 	NewRotation.Yaw += DeltaRotation;
 	SetActorLocationAndRotation(NewLocation, NewRotation);
 }
